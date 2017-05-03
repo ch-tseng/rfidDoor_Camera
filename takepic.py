@@ -4,16 +4,20 @@
 import time, os
 import json, datetime
 import logging
+import subprocess
 import paho.mqtt.client as mqtt
 from libraryCH.device.camera import PICamera
 from libraryCH.device.lcd import ILI9341
 
 #LCD顯示設定------------------------------------
-lcd = ILI9341(LCD_size_w=240, LCD_size_h=320, LCD_Rotate=90)
+lcd = ILI9341(LCD_size_w=240, LCD_size_h=320, LCD_Rotate=270)
 
 #開機及螢幕保護畫面
 screenSaverDelay = 30  #刷卡顯示, 幾秒後回到螢幕保護畫面
 lcd.displayImg("rfidbg.jpg")
+
+#是否拍照?
+takePhoto = False
 
 #MQTT設定---------------------------------------
 ChannelPublish = "Door-camera"
@@ -39,12 +43,13 @@ picDelay = 0.5
 #---------------------------------------------------------
 #You don't have to modify the code below------------------
 #---------------------------------------------------------
-camera = PICamera()
-camera.CameraConfig(rotation=cameraRotate)  
-camera.cameraResolution(resolution=photoSize)
+if(takePhoto==True):
+    camera = PICamera()
+    camera.CameraConfig(rotation=cameraRotate)  
+    camera.cameraResolution(resolution=photoSize)
 
 #LCD設定
-lcd_LineNow = 0
+lcd_LineNow = 8
 lcd_lineHeight = 30  #行的高度
 lcd_totalLine = 8  # LCD的行數 (320/30=8)
 screenSaverNow = False
@@ -78,25 +83,28 @@ def lcd_Line2Pixel(lineNum):
 #LCD移到下一行, 若超過設定則清螢幕並回到第0行
 def lcd_nextLine():
     global lcd_LineNow
-    lcd_LineNow+=1
-    if(lcd_LineNow>(lcd_totalLine-1)):
+    lcd_LineNow-=1
+    if(lcd_LineNow<0):
         lcd.displayClear()
-        lcd_LineNow = 0
+        lcd_LineNow = 8
 
 #LCD顯示刷卡內容
-def displayUser(empNo, empName, uid):
+def displayUser(empNo, empName, timeString, uid):
     global lcd_LineNow
 
-    st = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M')
+    #st = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M')
     if(lcd_LineNow>0): lcd_nextLine()
 
-    lcd.displayText("cfont1.ttf", fontSize=20, text=st, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
+    lcd.displayText("cfont1.ttf", fontSize=20, text=timeString, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
     lcd.displayText("cfont1.ttf", fontSize=20, text=empNo, position=(lcd_Line2Pixel(lcd_LineNow), 110) )
     lcd.displayText("cfont1.ttf", fontSize=26, text=empName, position=(lcd_Line2Pixel(lcd_LineNow), 10) )
 
     lcd_nextLine()
-    lcd.displayText("cfont1.ttf", fontSize=22, text=uid, position=(lcd_Line2Pixel(lcd_LineNow), 10), fontColor=(88,88,87) )
-
+    lcd.displayText("cfont1.ttf", fontSize=22, text=uid, position=(lcd_Line2Pixel(lcd_LineNow), 30), fontColor=(88,88,87) )
+    #lcd_nextLine()
+    #lcd.displayText("cfont1.ttf", fontSize=20, text=timeString, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
+    #lcd.displayText("cfont1.ttf", fontSize=20, text=empNo, position=(lcd_Line2Pixel(lcd_LineNow), 110) )
+    #lcd.displayText("cfont1.ttf", fontSize=26, text=empName, position=(lcd_Line2Pixel(lcd_LineNow), 10) )
 
 def takePictures(saveFolder="others"):
     global picDelay, numPics, picturesPath
@@ -122,14 +130,20 @@ def on_message(mosq, obj, msg):
     logger.info("MQTT received: " + msgReceived)
     lastTimeRead = time.time()
 
+
     if(is_json(msgReceived)==True):
         jsonReply = json.loads(msgReceived)
         screenSaverNow = False
 
-        for i in range(0, len(jsonReply)):
-            logger.info('EmpNo:'+jsonReply[0]["EmpNo"]+'  EmpCName:'+jsonReply[i]["EmpCName"]+' Uid:'+jsonReply[i]["Uid"])
-            displayUser(jsonReply[i]["EmpNo"], jsonReply[i]["EmpCName"], jsonReply[i]["Uid"])
-            takePictures(jsonReply[i]["EmpNo"])
+        print('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
+        logger.info('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
+        displayUser(jsonReply["EmpNo"], jsonReply["EmpCName"], jsonReply["Time"], jsonReply["Uid"])
+        if(takePhoto==True):
+            takePictures(jsonReply["EmpNo"])
+
+        playBunch = subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
+        #os.system('omxplayer --no-osd bell.mp3')
+
     else:
         lcd.displayText("cfont1.ttf", fontSize=24, text=msgReceived, position=(lcd_Line2Pixel(0), 10) )
         logger.info('Unknow ID: ' + msgReceived)

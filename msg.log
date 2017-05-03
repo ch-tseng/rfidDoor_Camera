@@ -6942,3 +6942,1140 @@
 2017-03-28 15:05:34,898 INFO MQTT subscribed: 1 (0,)
 2017-03-28 15:19:35,319 INFO MQTT received: [{"Uid":"30-0-e2-0-50-11-4-f-2-78-17-90-60-6b","EmpNo":"200334","EmpCName":"曾成訓","TagType":"E"}]
 2017-03-28 15:19:35,321 INFO EmpNo:200334  EmpCName:曾成訓 Uid:30-0-e2-0-50-11-4-f-2-78-17-90-60-6b
+2017-05-03 09:41:49,077 INFO MQTT subscribed: 1 (0,)
+2017-05-03 09:42:28,785 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334"}
+2017-05-03 09:52:22,862 INFO MQTT subscribed: 1 (0,)
+2017-05-03 09:52:32,841 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334"}
+2017-05-03 10:00:50,346 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:00:58,145 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Time":"2017/05/03 10:00"}
+2017-05-03 10:02:13,772 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:02:21,371 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:02"}
+2017-05-03 10:03:27,088 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:03"}
+2017-05-03 10:04:22,637 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:04:28,906 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:04"}
+2017-05-03 10:04:50,683 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Time":"2017/05/03 10:04"}
+2017-05-03 10:04:54,388 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:04"}
+2017-05-03 10:06:03,786 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:05"}
+2017-05-03 10:06:04,011 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:05"}
+2017-05-03 10:06:04,230 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Time":"2017/05/03 10:05"}
+2017-05-03 10:06:04,612 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:06"}
+2017-05-03 10:06:04,840 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Time":"2017/05/03 10:06"}
+2017-05-03 10:07:19,684 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:07:29,533 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:07"}
+2017-05-03 10:08:06,866 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:08:11,137 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:08"}
+2017-05-03 10:10:25,614 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:10:27,790 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:10"}
+2017-05-03 10:12:19,963 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:12:25,447 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:12"}
+2017-05-03 10:13:12,676 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:13:14,284 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:13"}
+2017-05-03 10:13:36,631 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:13:51,961 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:13"}
+2017-05-03 10:14:55,166 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:15:02,126 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:14"}
+2017-05-03 10:15:02,127 INFO Time:2017/05/03 10:14  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:15:03,017 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493777702.410907-0.jpg
+2017-05-03 10:15:04,096 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493777702.410907-1.jpg
+2017-05-03 10:15:05,176 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493777702.410907-2.jpg
+2017-05-03 10:15:06,259 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493777702.410907-3.jpg
+2017-05-03 10:15:07,340 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493777702.410907-4.jpg
+2017-05-03 10:15:08,420 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493777702.410907-5.jpg
+2017-05-03 10:15:09,496 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493777702.410907-6.jpg
+2017-05-03 10:15:10,576 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493777702.410907-7.jpg
+2017-05-03 10:15:11,663 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493777702.410907-8.jpg
+2017-05-03 10:15:12,740 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493777702.410907-9.jpg
+2017-05-03 10:15:13,243 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Time":"2017/05/03 10:15"}
+2017-05-03 10:15:13,244 INFO Time:2017/05/03 10:15  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:15:14,117 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493777713.5485165-0.jpg
+2017-05-03 10:15:15,193 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493777713.5485165-1.jpg
+2017-05-03 10:15:16,268 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493777713.5485165-2.jpg
+2017-05-03 10:15:17,340 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493777713.5485165-3.jpg
+2017-05-03 10:15:18,454 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493777713.5485165-4.jpg
+2017-05-03 10:15:19,537 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493777713.5485165-5.jpg
+2017-05-03 10:15:20,617 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493777713.5485165-6.jpg
+2017-05-03 10:15:21,698 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493777713.5485165-7.jpg
+2017-05-03 10:15:22,778 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493777713.5485165-8.jpg
+2017-05-03 10:15:23,859 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493777713.5485165-9.jpg
+2017-05-03 10:18:42,053 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:18:47,058 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Time":"2017/05/03 10:18"}
+2017-05-03 10:18:47,059 INFO Time:2017/05/03 10:18  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:23:59,061 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:24:03,306 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:23"}
+2017-05-03 10:24:03,308 INFO Time:2017/05/03 10:23  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:24:04,176 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493778243.5978084-0.jpg
+2017-05-03 10:24:05,244 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493778243.5978084-1.jpg
+2017-05-03 10:24:06,319 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493778243.5978084-2.jpg
+2017-05-03 10:24:07,393 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493778243.5978084-3.jpg
+2017-05-03 10:24:08,475 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493778243.5978084-4.jpg
+2017-05-03 10:24:09,555 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493778243.5978084-5.jpg
+2017-05-03 10:24:10,639 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493778243.5978084-6.jpg
+2017-05-03 10:24:11,716 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493778243.5978084-7.jpg
+2017-05-03 10:24:12,799 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493778243.5978084-8.jpg
+2017-05-03 10:24:13,879 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493778243.5978084-9.jpg
+2017-05-03 10:24:14,382 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:23"}
+2017-05-03 10:24:14,390 INFO Time:2017/05/03 10:23  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:24:15,254 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493778254.6702895-0.jpg
+2017-05-03 10:24:16,327 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493778254.6702895-1.jpg
+2017-05-03 10:24:17,400 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493778254.6702895-2.jpg
+2017-05-03 10:24:18,481 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493778254.6702895-3.jpg
+2017-05-03 10:24:19,562 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493778254.6702895-4.jpg
+2017-05-03 10:24:20,643 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493778254.6702895-5.jpg
+2017-05-03 10:24:21,725 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493778254.6702895-6.jpg
+2017-05-03 10:24:22,803 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493778254.6702895-7.jpg
+2017-05-03 10:24:23,886 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493778254.6702895-8.jpg
+2017-05-03 10:24:24,968 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493778254.6702895-9.jpg
+2017-05-03 10:24:25,471 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:24"}
+2017-05-03 10:24:25,472 INFO Time:2017/05/03 10:24  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:24:26,343 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493778265.7617562-0.jpg
+2017-05-03 10:24:27,416 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493778265.7617562-1.jpg
+2017-05-03 10:24:28,497 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493778265.7617562-2.jpg
+2017-05-03 10:24:29,578 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493778265.7617562-3.jpg
+2017-05-03 10:24:30,663 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493778265.7617562-4.jpg
+2017-05-03 10:24:31,740 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493778265.7617562-5.jpg
+2017-05-03 10:24:32,823 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493778265.7617562-6.jpg
+2017-05-03 10:24:33,901 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493778265.7617562-7.jpg
+2017-05-03 10:24:34,987 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493778265.7617562-8.jpg
+2017-05-03 10:24:36,089 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493778265.7617562-9.jpg
+2017-05-03 10:24:36,591 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:24"}
+2017-05-03 10:24:36,592 INFO Time:2017/05/03 10:24  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:24:42,035 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493778276.8503418-0.jpg
+2017-05-03 10:24:43,115 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493778276.8503418-1.jpg
+2017-05-03 10:24:44,196 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493778276.8503418-2.jpg
+2017-05-03 10:24:45,267 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493778276.8503418-3.jpg
+2017-05-03 10:24:46,340 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493778276.8503418-4.jpg
+2017-05-03 10:24:47,413 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493778276.8503418-5.jpg
+2017-05-03 10:24:48,496 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493778276.8503418-6.jpg
+2017-05-03 10:24:49,578 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493778276.8503418-7.jpg
+2017-05-03 10:24:50,658 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493778276.8503418-8.jpg
+2017-05-03 10:24:51,739 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493778276.8503418-9.jpg
+2017-05-03 10:24:52,242 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:24"}
+2017-05-03 10:24:52,252 INFO Time:2017/05/03 10:24  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:24:53,212 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493778292.6083126-0.jpg
+2017-05-03 10:24:54,287 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493778292.6083126-1.jpg
+2017-05-03 10:24:55,360 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493778292.6083126-2.jpg
+2017-05-03 10:24:56,435 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493778292.6083126-3.jpg
+2017-05-03 10:24:57,543 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493778292.6083126-4.jpg
+2017-05-03 10:24:58,622 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493778292.6083126-5.jpg
+2017-05-03 10:24:59,700 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493778292.6083126-6.jpg
+2017-05-03 10:25:00,786 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493778292.6083126-7.jpg
+2017-05-03 10:25:01,866 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493778292.6083126-8.jpg
+2017-05-03 10:25:02,946 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493778292.6083126-9.jpg
+2017-05-03 10:25:57,887 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:25"}
+2017-05-03 10:25:57,888 INFO Time:2017/05/03 10:25  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:25:58,780 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493778358.1793723-0.jpg
+2017-05-03 10:25:59,855 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493778358.1793723-1.jpg
+2017-05-03 10:26:00,928 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493778358.1793723-2.jpg
+2017-05-03 10:26:02,006 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493778358.1793723-3.jpg
+2017-05-03 10:26:03,084 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493778358.1793723-4.jpg
+2017-05-03 10:26:04,166 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493778358.1793723-5.jpg
+2017-05-03 10:26:05,247 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493778358.1793723-6.jpg
+2017-05-03 10:26:06,331 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493778358.1793723-7.jpg
+2017-05-03 10:26:07,411 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493778358.1793723-8.jpg
+2017-05-03 10:26:08,491 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493778358.1793723-9.jpg
+2017-05-03 10:26:08,995 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b","Time":"2017/05/03 10:26"}
+2017-05-03 10:26:08,996 INFO Time:2017/05/03 10:26  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 10:26:09,868 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493778369.278878-0.jpg
+2017-05-03 10:26:10,945 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493778369.278878-1.jpg
+2017-05-03 10:26:12,016 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493778369.278878-2.jpg
+2017-05-03 10:26:13,298 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493778369.278878-3.jpg
+2017-05-03 10:26:14,376 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493778369.278878-4.jpg
+2017-05-03 10:26:15,451 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493778369.278878-5.jpg
+2017-05-03 10:26:16,557 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493778369.278878-6.jpg
+2017-05-03 10:26:17,628 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493778369.278878-7.jpg
+2017-05-03 10:26:18,711 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493778369.278878-8.jpg
+2017-05-03 10:26:19,791 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493778369.278878-9.jpg
+2017-05-03 10:37:19,107 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:37:46,051 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b","Time":"2017/05/03 10:37"}
+2017-05-03 10:37:46,053 INFO Time:2017/05/03 10:37  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 10:37:46,999 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493779066.4038718-0.jpg
+2017-05-03 10:37:48,078 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493779066.4038718-1.jpg
+2017-05-03 10:37:49,156 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493779066.4038718-2.jpg
+2017-05-03 10:37:50,243 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493779066.4038718-3.jpg
+2017-05-03 10:37:51,326 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493779066.4038718-4.jpg
+2017-05-03 10:37:52,404 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493779066.4038718-5.jpg
+2017-05-03 10:37:53,481 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493779066.4038718-6.jpg
+2017-05-03 10:37:54,559 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493779066.4038718-7.jpg
+2017-05-03 10:37:55,680 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493779066.4038718-8.jpg
+2017-05-03 10:37:56,761 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493779066.4038718-9.jpg
+2017-05-03 10:38:05,585 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b","Time":"2017/05/03 10:38"}
+2017-05-03 10:38:05,587 INFO Time:2017/05/03 10:38  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 10:38:06,466 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493779085.881627-0.jpg
+2017-05-03 10:38:07,545 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493779085.881627-1.jpg
+2017-05-03 10:38:08,621 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493779085.881627-2.jpg
+2017-05-03 10:38:09,702 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493779085.881627-3.jpg
+2017-05-03 10:38:10,793 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493779085.881627-4.jpg
+2017-05-03 10:38:11,879 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493779085.881627-5.jpg
+2017-05-03 10:38:12,962 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493779085.881627-6.jpg
+2017-05-03 10:38:14,048 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493779085.881627-7.jpg
+2017-05-03 10:38:15,132 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493779085.881627-8.jpg
+2017-05-03 10:38:16,217 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493779085.881627-9.jpg
+2017-05-03 10:38:16,720 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:38"}
+2017-05-03 10:38:16,721 INFO Time:2017/05/03 10:38  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:38:17,630 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779097.0270777-0.jpg
+2017-05-03 10:38:18,705 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779097.0270777-1.jpg
+2017-05-03 10:38:19,791 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779097.0270777-2.jpg
+2017-05-03 10:38:20,874 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779097.0270777-3.jpg
+2017-05-03 10:38:21,991 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779097.0270777-4.jpg
+2017-05-03 10:38:23,077 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779097.0270777-5.jpg
+2017-05-03 10:38:24,162 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779097.0270777-6.jpg
+2017-05-03 10:38:25,253 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779097.0270777-7.jpg
+2017-05-03 10:38:26,336 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779097.0270777-8.jpg
+2017-05-03 10:38:27,423 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779097.0270777-9.jpg
+2017-05-03 10:38:31,145 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:38"}
+2017-05-03 10:38:31,146 INFO Time:2017/05/03 10:38  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:38:32,096 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493779111.477686-0.jpg
+2017-05-03 10:38:33,172 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493779111.477686-1.jpg
+2017-05-03 10:38:34,249 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493779111.477686-2.jpg
+2017-05-03 10:38:35,334 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493779111.477686-3.jpg
+2017-05-03 10:38:36,417 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493779111.477686-4.jpg
+2017-05-03 10:38:37,503 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493779111.477686-5.jpg
+2017-05-03 10:38:38,584 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493779111.477686-6.jpg
+2017-05-03 10:38:39,766 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493779111.477686-7.jpg
+2017-05-03 10:38:40,850 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493779111.477686-8.jpg
+2017-05-03 10:38:41,935 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493779111.477686-9.jpg
+2017-05-03 10:39:25,641 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:39"}
+2017-05-03 10:39:25,642 INFO Time:2017/05/03 10:39  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:39:26,616 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493779166.005151-0.jpg
+2017-05-03 10:39:27,691 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493779166.005151-1.jpg
+2017-05-03 10:39:28,767 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493779166.005151-2.jpg
+2017-05-03 10:39:29,888 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493779166.005151-3.jpg
+2017-05-03 10:39:30,973 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493779166.005151-4.jpg
+2017-05-03 10:39:32,056 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493779166.005151-5.jpg
+2017-05-03 10:39:33,142 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493779166.005151-6.jpg
+2017-05-03 10:39:34,224 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493779166.005151-7.jpg
+2017-05-03 10:39:35,370 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493779166.005151-8.jpg
+2017-05-03 10:39:36,446 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493779166.005151-9.jpg
+2017-05-03 10:40:24,270 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:40:32,120 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b","Time":"2017/05/03 10:40"}
+2017-05-03 10:40:32,122 INFO Time:2017/05/03 10:40  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 10:40:33,016 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493779232.427891-0.jpg
+2017-05-03 10:40:34,092 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493779232.427891-1.jpg
+2017-05-03 10:40:35,169 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493779232.427891-2.jpg
+2017-05-03 10:40:36,276 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493779232.427891-3.jpg
+2017-05-03 10:40:37,390 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493779232.427891-4.jpg
+2017-05-03 10:40:38,471 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493779232.427891-5.jpg
+2017-05-03 10:40:39,556 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493779232.427891-6.jpg
+2017-05-03 10:40:40,646 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493779232.427891-7.jpg
+2017-05-03 10:40:41,732 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493779232.427891-8.jpg
+2017-05-03 10:40:42,818 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493779232.427891-9.jpg
+2017-05-03 10:48:51,073 INFO MQTT subscribed: 1 (0,)
+2017-05-03 10:49:06,628 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b","Time":"2017/05/03 10:49"}
+2017-05-03 10:49:06,630 INFO Time:2017/05/03 10:49  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 10:49:07,512 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493779746.9305658-0.jpg
+2017-05-03 10:49:08,588 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493779746.9305658-1.jpg
+2017-05-03 10:49:09,668 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493779746.9305658-2.jpg
+2017-05-03 10:49:10,749 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493779746.9305658-3.jpg
+2017-05-03 10:49:11,831 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493779746.9305658-4.jpg
+2017-05-03 10:49:12,911 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493779746.9305658-5.jpg
+2017-05-03 10:49:13,993 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493779746.9305658-6.jpg
+2017-05-03 10:49:15,076 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493779746.9305658-7.jpg
+2017-05-03 10:49:16,157 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493779746.9305658-8.jpg
+2017-05-03 10:49:17,239 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493779746.9305658-9.jpg
+2017-05-03 10:49:17,742 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:49"}
+2017-05-03 10:49:17,744 INFO Time:2017/05/03 10:49  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:49:18,611 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779758.028923-0.jpg
+2017-05-03 10:49:19,682 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779758.028923-1.jpg
+2017-05-03 10:49:20,758 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779758.028923-2.jpg
+2017-05-03 10:49:21,829 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779758.028923-3.jpg
+2017-05-03 10:49:22,976 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779758.028923-4.jpg
+2017-05-03 10:49:24,054 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779758.028923-5.jpg
+2017-05-03 10:49:25,135 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779758.028923-6.jpg
+2017-05-03 10:49:26,215 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779758.028923-7.jpg
+2017-05-03 10:49:27,295 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779758.028923-8.jpg
+2017-05-03 10:49:28,377 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779758.028923-9.jpg
+2017-05-03 10:49:28,881 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:49"}
+2017-05-03 10:49:28,882 INFO Time:2017/05/03 10:49  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:49:29,783 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779769.179681-0.jpg
+2017-05-03 10:49:30,858 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779769.179681-1.jpg
+2017-05-03 10:49:31,933 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779769.179681-2.jpg
+2017-05-03 10:49:33,013 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779769.179681-3.jpg
+2017-05-03 10:49:34,094 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779769.179681-4.jpg
+2017-05-03 10:49:35,176 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779769.179681-5.jpg
+2017-05-03 10:49:36,254 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779769.179681-6.jpg
+2017-05-03 10:49:37,367 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779769.179681-7.jpg
+2017-05-03 10:49:38,451 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779769.179681-8.jpg
+2017-05-03 10:49:44,329 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779769.179681-9.jpg
+2017-05-03 10:49:44,831 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:49"}
+2017-05-03 10:49:44,832 INFO Time:2017/05/03 10:49  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:49:45,672 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779785.090152-0.jpg
+2017-05-03 10:49:46,750 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779785.090152-1.jpg
+2017-05-03 10:49:47,835 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779785.090152-2.jpg
+2017-05-03 10:49:48,916 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779785.090152-3.jpg
+2017-05-03 10:49:49,996 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779785.090152-4.jpg
+2017-05-03 10:49:51,078 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779785.090152-5.jpg
+2017-05-03 10:49:52,158 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779785.090152-6.jpg
+2017-05-03 10:49:53,241 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779785.090152-7.jpg
+2017-05-03 10:49:54,322 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779785.090152-8.jpg
+2017-05-03 10:49:55,404 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779785.090152-9.jpg
+2017-05-03 10:49:55,907 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:49"}
+2017-05-03 10:49:55,909 INFO Time:2017/05/03 10:49  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:49:56,844 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779796.2619023-0.jpg
+2017-05-03 10:49:57,924 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779796.2619023-1.jpg
+2017-05-03 10:49:59,005 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779796.2619023-2.jpg
+2017-05-03 10:50:00,086 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779796.2619023-3.jpg
+2017-05-03 10:50:01,169 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779796.2619023-4.jpg
+2017-05-03 10:50:02,249 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779796.2619023-5.jpg
+2017-05-03 10:50:03,332 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779796.2619023-6.jpg
+2017-05-03 10:50:04,412 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779796.2619023-7.jpg
+2017-05-03 10:50:05,492 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779796.2619023-8.jpg
+2017-05-03 10:50:06,572 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779796.2619023-9.jpg
+2017-05-03 10:50:07,075 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:49"}
+2017-05-03 10:50:07,076 INFO Time:2017/05/03 10:49  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:50:07,976 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779807.3682725-0.jpg
+2017-05-03 10:50:09,052 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779807.3682725-1.jpg
+2017-05-03 10:50:10,123 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779807.3682725-2.jpg
+2017-05-03 10:50:11,230 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779807.3682725-3.jpg
+2017-05-03 10:50:12,305 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779807.3682725-4.jpg
+2017-05-03 10:50:13,386 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779807.3682725-5.jpg
+2017-05-03 10:50:14,469 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779807.3682725-6.jpg
+2017-05-03 10:50:15,549 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779807.3682725-7.jpg
+2017-05-03 10:50:16,634 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779807.3682725-8.jpg
+2017-05-03 10:50:17,714 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779807.3682725-9.jpg
+2017-05-03 10:50:18,217 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:49"}
+2017-05-03 10:50:18,218 INFO Time:2017/05/03 10:49  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:50:19,088 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779818.5049725-0.jpg
+2017-05-03 10:50:20,158 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779818.5049725-1.jpg
+2017-05-03 10:50:21,232 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779818.5049725-2.jpg
+2017-05-03 10:50:22,347 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779818.5049725-3.jpg
+2017-05-03 10:50:23,432 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779818.5049725-4.jpg
+2017-05-03 10:50:24,515 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779818.5049725-5.jpg
+2017-05-03 10:50:25,595 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779818.5049725-6.jpg
+2017-05-03 10:50:26,676 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779818.5049725-7.jpg
+2017-05-03 10:50:27,761 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779818.5049725-8.jpg
+2017-05-03 10:50:28,842 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779818.5049725-9.jpg
+2017-05-03 10:50:29,344 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:49"}
+2017-05-03 10:50:29,345 INFO Time:2017/05/03 10:49  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:50:30,214 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493779829.6211505-0.jpg
+2017-05-03 10:50:31,322 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493779829.6211505-1.jpg
+2017-05-03 10:50:32,398 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493779829.6211505-2.jpg
+2017-05-03 10:50:33,480 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493779829.6211505-3.jpg
+2017-05-03 10:50:34,560 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493779829.6211505-4.jpg
+2017-05-03 10:50:35,641 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493779829.6211505-5.jpg
+2017-05-03 10:50:36,721 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493779829.6211505-6.jpg
+2017-05-03 10:50:37,801 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493779829.6211505-7.jpg
+2017-05-03 10:50:38,882 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493779829.6211505-8.jpg
+2017-05-03 10:50:39,962 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493779829.6211505-9.jpg
+2017-05-03 10:50:40,464 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:49"}
+2017-05-03 10:50:40,466 INFO Time:2017/05/03 10:49  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:50:41,402 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493779840.795674-0.jpg
+2017-05-03 10:50:42,473 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493779840.795674-1.jpg
+2017-05-03 10:50:43,560 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493779840.795674-2.jpg
+2017-05-03 10:50:44,637 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493779840.795674-3.jpg
+2017-05-03 10:50:45,721 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493779840.795674-4.jpg
+2017-05-03 10:50:46,801 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493779840.795674-5.jpg
+2017-05-03 10:50:47,887 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493779840.795674-6.jpg
+2017-05-03 10:50:48,965 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493779840.795674-7.jpg
+2017-05-03 10:50:50,046 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493779840.795674-8.jpg
+2017-05-03 10:50:51,128 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493779840.795674-9.jpg
+2017-05-03 10:50:51,630 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:49"}
+2017-05-03 10:50:51,631 INFO Time:2017/05/03 10:49  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:50:52,515 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493779851.9193673-0.jpg
+2017-05-03 10:50:53,616 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493779851.9193673-1.jpg
+2017-05-03 10:50:54,698 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493779851.9193673-2.jpg
+2017-05-03 10:50:55,779 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493779851.9193673-3.jpg
+2017-05-03 10:50:56,863 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493779851.9193673-4.jpg
+2017-05-03 10:50:59,942 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493779851.9193673-5.jpg
+2017-05-03 10:51:01,022 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493779851.9193673-6.jpg
+2017-05-03 10:51:02,102 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493779851.9193673-7.jpg
+2017-05-03 10:51:05,420 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493779851.9193673-8.jpg
+2017-05-03 10:51:06,503 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493779851.9193673-9.jpg
+2017-05-03 10:51:08,012 INFO MQTT subscribed: 2 (0,)
+2017-05-03 10:53:01,394 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:52"}
+2017-05-03 10:53:01,395 INFO Time:2017/05/03 10:52  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:53:02,297 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493779981.7013652-0.jpg
+2017-05-03 10:53:03,378 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493779981.7013652-1.jpg
+2017-05-03 10:53:04,460 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493779981.7013652-2.jpg
+2017-05-03 10:53:05,542 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493779981.7013652-3.jpg
+2017-05-03 10:53:06,625 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493779981.7013652-4.jpg
+2017-05-03 10:53:07,705 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493779981.7013652-5.jpg
+2017-05-03 10:53:08,785 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493779981.7013652-6.jpg
+2017-05-03 10:53:09,866 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493779981.7013652-7.jpg
+2017-05-03 10:53:10,947 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493779981.7013652-8.jpg
+2017-05-03 10:53:12,028 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493779981.7013652-9.jpg
+2017-05-03 10:53:12,531 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:52"}
+2017-05-03 10:53:12,532 INFO Time:2017/05/03 10:52  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:53:13,400 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493779992.8186467-0.jpg
+2017-05-03 10:53:14,475 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493779992.8186467-1.jpg
+2017-05-03 10:53:15,548 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493779992.8186467-2.jpg
+2017-05-03 10:53:16,623 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493779992.8186467-3.jpg
+2017-05-03 10:53:17,707 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493779992.8186467-4.jpg
+2017-05-03 10:53:18,788 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493779992.8186467-5.jpg
+2017-05-03 10:53:19,868 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493779992.8186467-6.jpg
+2017-05-03 10:53:20,948 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493779992.8186467-7.jpg
+2017-05-03 10:53:22,031 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493779992.8186467-8.jpg
+2017-05-03 10:53:23,111 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493779992.8186467-9.jpg
+2017-05-03 10:53:23,614 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:52"}
+2017-05-03 10:53:23,615 INFO Time:2017/05/03 10:52  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:53:24,553 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493780003.964773-0.jpg
+2017-05-03 10:53:25,626 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493780003.964773-1.jpg
+2017-05-03 10:53:26,699 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493780003.964773-2.jpg
+2017-05-03 10:53:27,785 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493780003.964773-3.jpg
+2017-05-03 10:53:28,861 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493780003.964773-4.jpg
+2017-05-03 10:53:29,945 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493780003.964773-5.jpg
+2017-05-03 10:53:31,021 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493780003.964773-6.jpg
+2017-05-03 10:53:32,104 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493780003.964773-7.jpg
+2017-05-03 10:53:33,184 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493780003.964773-8.jpg
+2017-05-03 10:53:34,264 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493780003.964773-9.jpg
+2017-05-03 10:53:34,766 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b","Time":"2017/05/03 10:53"}
+2017-05-03 10:53:34,768 INFO Time:2017/05/03 10:53  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 10:53:35,644 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493780015.046935-0.jpg
+2017-05-03 10:53:36,718 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493780015.046935-1.jpg
+2017-05-03 10:53:37,802 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493780015.046935-2.jpg
+2017-05-03 10:53:38,882 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493780015.046935-3.jpg
+2017-05-03 10:53:39,963 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493780015.046935-4.jpg
+2017-05-03 10:53:41,077 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493780015.046935-5.jpg
+2017-05-03 10:53:42,159 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493780015.046935-6.jpg
+2017-05-03 10:53:43,239 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493780015.046935-7.jpg
+2017-05-03 10:53:44,320 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493780015.046935-8.jpg
+2017-05-03 10:53:45,401 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493780015.046935-9.jpg
+2017-05-03 10:54:15,441 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 10:54"}
+2017-05-03 10:54:15,443 INFO Time:2017/05/03 10:54  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 10:54:16,323 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493780055.7332728-0.jpg
+2017-05-03 10:54:17,400 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493780055.7332728-1.jpg
+2017-05-03 10:54:18,480 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493780055.7332728-2.jpg
+2017-05-03 10:54:19,562 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493780055.7332728-3.jpg
+2017-05-03 10:54:20,645 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493780055.7332728-4.jpg
+2017-05-03 10:54:21,723 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493780055.7332728-5.jpg
+2017-05-03 10:54:22,806 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493780055.7332728-6.jpg
+2017-05-03 10:54:23,887 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493780055.7332728-7.jpg
+2017-05-03 10:54:24,974 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493780055.7332728-8.jpg
+2017-05-03 10:54:28,917 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493780055.7332728-9.jpg
+2017-05-03 10:58:04,103 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b","Time":"2017/05/03 10:57"}
+2017-05-03 10:58:04,104 INFO Time:2017/05/03 10:57  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 10:58:04,946 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493780284.366279-0.jpg
+2017-05-03 10:58:06,017 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493780284.366279-1.jpg
+2017-05-03 10:58:07,089 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493780284.366279-2.jpg
+2017-05-03 10:58:08,170 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493780284.366279-3.jpg
+2017-05-03 10:58:09,251 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493780284.366279-4.jpg
+2017-05-03 10:58:10,333 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493780284.366279-5.jpg
+2017-05-03 10:58:11,414 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493780284.366279-6.jpg
+2017-05-03 10:58:12,496 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493780284.366279-7.jpg
+2017-05-03 10:58:13,577 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493780284.366279-8.jpg
+2017-05-03 10:58:14,656 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493780284.366279-9.jpg
+2017-05-03 10:58:15,159 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 10:57"}
+2017-05-03 10:58:15,160 INFO Time:2017/05/03 10:57  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 10:58:16,062 INFO TakePicture 0 to /var/www/html/rfidface/200281/1493780295.4935114-0.jpg
+2017-05-03 10:58:17,137 INFO TakePicture 1 to /var/www/html/rfidface/200281/1493780295.4935114-1.jpg
+2017-05-03 10:58:18,217 INFO TakePicture 2 to /var/www/html/rfidface/200281/1493780295.4935114-2.jpg
+2017-05-03 10:58:19,298 INFO TakePicture 3 to /var/www/html/rfidface/200281/1493780295.4935114-3.jpg
+2017-05-03 10:58:20,378 INFO TakePicture 4 to /var/www/html/rfidface/200281/1493780295.4935114-4.jpg
+2017-05-03 10:58:21,458 INFO TakePicture 5 to /var/www/html/rfidface/200281/1493780295.4935114-5.jpg
+2017-05-03 10:58:22,542 INFO TakePicture 6 to /var/www/html/rfidface/200281/1493780295.4935114-6.jpg
+2017-05-03 10:58:23,622 INFO TakePicture 7 to /var/www/html/rfidface/200281/1493780295.4935114-7.jpg
+2017-05-03 10:58:24,706 INFO TakePicture 8 to /var/www/html/rfidface/200281/1493780295.4935114-8.jpg
+2017-05-03 10:58:25,783 INFO TakePicture 9 to /var/www/html/rfidface/200281/1493780295.4935114-9.jpg
+2017-05-03 11:06:10,293 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000300833b2ddd901400000000003","Time":"2017/05/03 11:06"}
+2017-05-03 11:06:10,295 INFO Time:2017/05/03 11:06  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:06:11,151 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493780770.5620787-0.jpg
+2017-05-03 11:06:12,232 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493780770.5620787-1.jpg
+2017-05-03 11:06:13,329 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493780770.5620787-2.jpg
+2017-05-03 11:06:14,423 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493780770.5620787-3.jpg
+2017-05-03 11:06:15,517 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493780770.5620787-4.jpg
+2017-05-03 11:06:16,613 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493780770.5620787-5.jpg
+2017-05-03 11:06:17,707 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493780770.5620787-6.jpg
+2017-05-03 11:06:18,802 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493780770.5620787-7.jpg
+2017-05-03 11:06:19,894 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493780770.5620787-8.jpg
+2017-05-03 11:06:20,988 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493780770.5620787-9.jpg
+2017-05-03 11:07:24,303 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000300833b2ddd901400000000003","Time":"2017/05/03 11:07"}
+2017-05-03 11:07:24,305 INFO Time:2017/05/03 11:07  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:07:25,196 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493780844.599945-0.jpg
+2017-05-03 11:07:26,279 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493780844.599945-1.jpg
+2017-05-03 11:07:27,370 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493780844.599945-2.jpg
+2017-05-03 11:07:28,460 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493780844.599945-3.jpg
+2017-05-03 11:07:29,555 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493780844.599945-4.jpg
+2017-05-03 11:07:30,646 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493780844.599945-5.jpg
+2017-05-03 11:07:31,736 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493780844.599945-6.jpg
+2017-05-03 11:07:32,829 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493780844.599945-7.jpg
+2017-05-03 11:07:33,920 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493780844.599945-8.jpg
+2017-05-03 11:07:35,013 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493780844.599945-9.jpg
+2017-05-03 11:09:00,283 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 11:08"}
+2017-05-03 11:09:00,285 INFO Time:2017/05/03 11:08  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 11:09:01,140 INFO TakePicture 0 to /var/www/html/rfidface/200296/1493780940.5646102-0.jpg
+2017-05-03 11:09:02,221 INFO TakePicture 1 to /var/www/html/rfidface/200296/1493780940.5646102-1.jpg
+2017-05-03 11:09:03,311 INFO TakePicture 2 to /var/www/html/rfidface/200296/1493780940.5646102-2.jpg
+2017-05-03 11:09:04,404 INFO TakePicture 3 to /var/www/html/rfidface/200296/1493780940.5646102-3.jpg
+2017-05-03 11:09:05,494 INFO TakePicture 4 to /var/www/html/rfidface/200296/1493780940.5646102-4.jpg
+2017-05-03 11:09:08,367 INFO TakePicture 5 to /var/www/html/rfidface/200296/1493780940.5646102-5.jpg
+2017-05-03 11:09:09,459 INFO TakePicture 6 to /var/www/html/rfidface/200296/1493780940.5646102-6.jpg
+2017-05-03 11:09:10,547 INFO TakePicture 7 to /var/www/html/rfidface/200296/1493780940.5646102-7.jpg
+2017-05-03 11:09:11,639 INFO TakePicture 8 to /var/www/html/rfidface/200296/1493780940.5646102-8.jpg
+2017-05-03 11:09:12,732 INFO TakePicture 9 to /var/www/html/rfidface/200296/1493780940.5646102-9.jpg
+2017-05-03 11:10:35,118 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:10"}
+2017-05-03 11:10:35,119 INFO Time:2017/05/03 11:10  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:10:36,093 INFO TakePicture 0 to /var/www/html/rfidface/200249/1493781035.4800076-0.jpg
+2017-05-03 11:10:37,178 INFO TakePicture 1 to /var/www/html/rfidface/200249/1493781035.4800076-1.jpg
+2017-05-03 11:10:38,268 INFO TakePicture 2 to /var/www/html/rfidface/200249/1493781035.4800076-2.jpg
+2017-05-03 11:10:39,373 INFO TakePicture 3 to /var/www/html/rfidface/200249/1493781035.4800076-3.jpg
+2017-05-03 11:10:40,450 INFO TakePicture 4 to /var/www/html/rfidface/200249/1493781035.4800076-4.jpg
+2017-05-03 11:10:41,537 INFO TakePicture 5 to /var/www/html/rfidface/200249/1493781035.4800076-5.jpg
+2017-05-03 11:10:42,627 INFO TakePicture 6 to /var/www/html/rfidface/200249/1493781035.4800076-6.jpg
+2017-05-03 11:10:43,717 INFO TakePicture 7 to /var/www/html/rfidface/200249/1493781035.4800076-7.jpg
+2017-05-03 11:10:44,808 INFO TakePicture 8 to /var/www/html/rfidface/200249/1493781035.4800076-8.jpg
+2017-05-03 11:10:45,903 INFO TakePicture 9 to /var/www/html/rfidface/200249/1493781035.4800076-9.jpg
+2017-05-03 11:11:37,125 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:11"}
+2017-05-03 11:11:37,127 INFO Time:2017/05/03 11:11  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:11:38,005 INFO TakePicture 0 to /var/www/html/rfidface/200249/1493781097.4241114-0.jpg
+2017-05-03 11:11:39,083 INFO TakePicture 1 to /var/www/html/rfidface/200249/1493781097.4241114-1.jpg
+2017-05-03 11:11:40,198 INFO TakePicture 2 to /var/www/html/rfidface/200249/1493781097.4241114-2.jpg
+2017-05-03 11:11:41,319 INFO TakePicture 3 to /var/www/html/rfidface/200249/1493781097.4241114-3.jpg
+2017-05-03 11:11:42,428 INFO TakePicture 4 to /var/www/html/rfidface/200249/1493781097.4241114-4.jpg
+2017-05-03 11:11:43,517 INFO TakePicture 5 to /var/www/html/rfidface/200249/1493781097.4241114-5.jpg
+2017-05-03 11:11:44,605 INFO TakePicture 6 to /var/www/html/rfidface/200249/1493781097.4241114-6.jpg
+2017-05-03 11:11:45,693 INFO TakePicture 7 to /var/www/html/rfidface/200249/1493781097.4241114-7.jpg
+2017-05-03 11:11:46,787 INFO TakePicture 8 to /var/www/html/rfidface/200249/1493781097.4241114-8.jpg
+2017-05-03 11:11:47,872 INFO TakePicture 9 to /var/www/html/rfidface/200249/1493781097.4241114-9.jpg
+2017-05-03 11:13:07,281 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:13"}
+2017-05-03 11:13:07,282 INFO Time:2017/05/03 11:13  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:13:08,159 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493781187.5529444-0.jpg
+2017-05-03 11:13:09,292 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493781187.5529444-1.jpg
+2017-05-03 11:13:10,365 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493781187.5529444-2.jpg
+2017-05-03 11:13:11,449 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493781187.5529444-3.jpg
+2017-05-03 11:13:12,533 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493781187.5529444-4.jpg
+2017-05-03 11:13:13,625 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493781187.5529444-5.jpg
+2017-05-03 11:13:14,720 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493781187.5529444-6.jpg
+2017-05-03 11:13:15,816 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493781187.5529444-7.jpg
+2017-05-03 11:13:16,908 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493781187.5529444-8.jpg
+2017-05-03 11:13:18,002 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493781187.5529444-9.jpg
+2017-05-03 11:18:12,601 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:18"}
+2017-05-03 11:18:12,602 INFO Time:2017/05/03 11:18  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:18:13,458 INFO TakePicture 0 to /var/www/html/rfidface/200334/1493781492.8659227-0.jpg
+2017-05-03 11:18:14,547 INFO TakePicture 1 to /var/www/html/rfidface/200334/1493781492.8659227-1.jpg
+2017-05-03 11:18:15,630 INFO TakePicture 2 to /var/www/html/rfidface/200334/1493781492.8659227-2.jpg
+2017-05-03 11:18:16,715 INFO TakePicture 3 to /var/www/html/rfidface/200334/1493781492.8659227-3.jpg
+2017-05-03 11:18:17,851 INFO TakePicture 4 to /var/www/html/rfidface/200334/1493781492.8659227-4.jpg
+2017-05-03 11:18:18,945 INFO TakePicture 5 to /var/www/html/rfidface/200334/1493781492.8659227-5.jpg
+2017-05-03 11:18:20,040 INFO TakePicture 6 to /var/www/html/rfidface/200334/1493781492.8659227-6.jpg
+2017-05-03 11:18:21,136 INFO TakePicture 7 to /var/www/html/rfidface/200334/1493781492.8659227-7.jpg
+2017-05-03 11:18:22,231 INFO TakePicture 8 to /var/www/html/rfidface/200334/1493781492.8659227-8.jpg
+2017-05-03 11:18:23,321 INFO TakePicture 9 to /var/www/html/rfidface/200334/1493781492.8659227-9.jpg
+2017-05-03 11:23:02,452 INFO MQTT subscribed: 1 (0,)
+2017-05-03 11:23:10,111 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:23"}
+2017-05-03 11:23:10,112 INFO Time:2017/05/03 11:23  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:27:19,594 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:27"}
+2017-05-03 11:27:19,595 INFO Time:2017/05/03 11:27  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:27:20,872 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:27"}
+2017-05-03 11:27:20,872 INFO Time:2017/05/03 11:27  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:28:12,319 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:28"}
+2017-05-03 11:28:12,322 INFO Time:2017/05/03 11:28  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:29:04,770 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:29"}
+2017-05-03 11:29:04,772 INFO Time:2017/05/03 11:29  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:30:08,479 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:30"}
+2017-05-03 11:30:08,480 INFO Time:2017/05/03 11:30  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:30:49,336 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:30"}
+2017-05-03 11:30:49,337 INFO Time:2017/05/03 11:30  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:31:04,623 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:31"}
+2017-05-03 11:31:04,625 INFO Time:2017/05/03 11:31  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:31:07,734 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:31"}
+2017-05-03 11:31:07,735 INFO Time:2017/05/03 11:31  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:32:05,573 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:32"}
+2017-05-03 11:32:05,574 INFO Time:2017/05/03 11:32  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:33:10,453 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:33"}
+2017-05-03 11:33:10,455 INFO Time:2017/05/03 11:33  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:34:00,519 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:33"}
+2017-05-03 11:34:00,521 INFO Time:2017/05/03 11:33  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:34:06,474 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:34"}
+2017-05-03 11:34:06,476 INFO Time:2017/05/03 11:34  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:34:08,293 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:34"}
+2017-05-03 11:34:08,295 INFO Time:2017/05/03 11:34  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:35:05,129 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:35"}
+2017-05-03 11:35:05,131 INFO Time:2017/05/03 11:35  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:35:07,866 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:35"}
+2017-05-03 11:35:07,868 INFO Time:2017/05/03 11:35  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:36:05,047 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:36"}
+2017-05-03 11:36:05,048 INFO Time:2017/05/03 11:36  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:36:08,787 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:36"}
+2017-05-03 11:36:08,789 INFO Time:2017/05/03 11:36  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:36:09,828 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:36"}
+2017-05-03 11:36:09,829 INFO Time:2017/05/03 11:36  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:37:04,596 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:37"}
+2017-05-03 11:37:04,597 INFO Time:2017/05/03 11:37  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:37:34,565 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:37"}
+2017-05-03 11:37:34,566 INFO Time:2017/05/03 11:37  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:38:21,882 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:38"}
+2017-05-03 11:38:21,883 INFO Time:2017/05/03 11:38  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:38:51,844 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:38"}
+2017-05-03 11:38:51,845 INFO Time:2017/05/03 11:38  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:39:09,612 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:39"}
+2017-05-03 11:39:09,613 INFO Time:2017/05/03 11:39  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:39:41,231 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:39"}
+2017-05-03 11:39:41,233 INFO Time:2017/05/03 11:39  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:40:05,017 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:05,018 INFO Time:2017/05/03 11:40  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:40:06,211 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:06,212 INFO Time:2017/05/03 11:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:40:07,321 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:07,322 INFO Time:2017/05/03 11:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:40:08,753 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:08,754 INFO Time:2017/05/03 11:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:40:09,545 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:09,546 INFO Time:2017/05/03 11:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:40:11,620 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:11,621 INFO Time:2017/05/03 11:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:40:12,153 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:12,154 INFO Time:2017/05/03 11:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:40:13,925 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:40"}
+2017-05-03 11:40:13,926 INFO Time:2017/05/03 11:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:41:08,871 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:41"}
+2017-05-03 11:41:08,873 INFO Time:2017/05/03 11:41  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:41:19,997 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:41"}
+2017-05-03 11:41:19,998 INFO Time:2017/05/03 11:41  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:42:04,985 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:42"}
+2017-05-03 11:42:04,986 INFO Time:2017/05/03 11:42  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:42:06,102 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:42"}
+2017-05-03 11:42:06,103 INFO Time:2017/05/03 11:42  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:42:07,578 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:42"}
+2017-05-03 11:42:07,579 INFO Time:2017/05/03 11:42  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:42:08,168 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:42"}
+2017-05-03 11:42:08,169 INFO Time:2017/05/03 11:42  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:42:11,669 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:42"}
+2017-05-03 11:42:11,670 INFO Time:2017/05/03 11:42  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:43:04,899 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:43"}
+2017-05-03 11:43:04,901 INFO Time:2017/05/03 11:43  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:44:05,230 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:44"}
+2017-05-03 11:44:05,232 INFO Time:2017/05/03 11:44  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:44:38,661 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:44"}
+2017-05-03 11:44:38,662 INFO Time:2017/05/03 11:44  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:45:04,587 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:04,589 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:04,858 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:04,859 INFO Time:2017/05/03 11:45  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:45:06,690 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:06,691 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:07,107 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:07,108 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:07,434 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:07,436 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:08,000 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:08,001 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:08,328 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:08,330 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:08,672 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:08,673 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:09,029 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:09,030 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:09,361 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:09,362 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:12,729 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:12,731 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:13,066 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:13,067 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:13,415 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:13,416 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:13,749 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:13,750 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:14,083 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:14,084 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:14,420 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:14,421 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:14,872 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:14,873 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:15,218 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:15,219 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:15,780 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:15,781 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:45:16,106 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:45"}
+2017-05-03 11:45:16,107 INFO Time:2017/05/03 11:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:06,341 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:06,342 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:06,591 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:06,592 INFO Time:2017/05/03 11:46  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:46:06,889 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:06,890 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:07,451 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:07,452 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:20,222 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:20,223 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:22,316 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:22,316 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:23,365 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:23,366 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:27,424 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:27,425 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:27,839 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:27,840 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:28,384 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:28,385 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:28,933 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:28,934 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:29,264 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:29,265 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:32,603 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:32,605 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:32,946 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:32,947 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:33,286 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:33,288 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:36,753 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:36,754 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:37,094 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:37,095 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:37,643 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:37,645 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:37,988 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:37,989 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:38,328 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:38,330 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:38,655 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:38,657 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:46:38,991 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:46"}
+2017-05-03 11:46:38,992 INFO Time:2017/05/03 11:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:47:07,815 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:47"}
+2017-05-03 11:47:07,817 INFO Time:2017/05/03 11:47  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:47:08,229 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:47"}
+2017-05-03 11:47:08,230 INFO Time:2017/05/03 11:47  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:48:05,814 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:48"}
+2017-05-03 11:48:05,816 INFO Time:2017/05/03 11:48  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:48:07,101 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:48"}
+2017-05-03 11:48:07,102 INFO Time:2017/05/03 11:48  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:49:05,272 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:49"}
+2017-05-03 11:49:05,273 INFO Time:2017/05/03 11:49  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:49:08,857 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:49"}
+2017-05-03 11:49:08,859 INFO Time:2017/05/03 11:49  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:49:09,278 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:49"}
+2017-05-03 11:49:09,279 INFO Time:2017/05/03 11:49  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:50:04,619 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:50"}
+2017-05-03 11:50:04,631 INFO Time:2017/05/03 11:50  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:50:16,813 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:50"}
+2017-05-03 11:50:16,815 INFO Time:2017/05/03 11:50  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:51:07,733 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:51"}
+2017-05-03 11:51:07,734 INFO Time:2017/05/03 11:51  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:51:08,271 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:51"}
+2017-05-03 11:51:08,272 INFO Time:2017/05/03 11:51  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:52:05,024 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:52"}
+2017-05-03 11:52:05,025 INFO Time:2017/05/03 11:52  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:52:05,372 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:52"}
+2017-05-03 11:52:05,373 INFO Time:2017/05/03 11:52  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:52:06,155 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:52"}
+2017-05-03 11:52:06,155 INFO Time:2017/05/03 11:52  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:53:04,800 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:53"}
+2017-05-03 11:53:04,812 INFO Time:2017/05/03 11:53  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:53:06,652 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:53"}
+2017-05-03 11:53:06,653 INFO Time:2017/05/03 11:53  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:54:05,464 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:54"}
+2017-05-03 11:54:05,465 INFO Time:2017/05/03 11:54  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:54:38,178 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:54"}
+2017-05-03 11:54:38,179 INFO Time:2017/05/03 11:54  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:55:04,778 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:55"}
+2017-05-03 11:55:04,779 INFO Time:2017/05/03 11:55  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:55:05,052 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:55"}
+2017-05-03 11:55:05,052 INFO Time:2017/05/03 11:55  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:55:05,346 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:55"}
+2017-05-03 11:55:05,346 INFO Time:2017/05/03 11:55  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:55:05,735 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:55"}
+2017-05-03 11:55:05,736 INFO Time:2017/05/03 11:55  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:55:06,064 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:55"}
+2017-05-03 11:55:06,065 INFO Time:2017/05/03 11:55  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:55:09,619 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:55"}
+2017-05-03 11:55:09,621 INFO Time:2017/05/03 11:55  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:56:14,777 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:56"}
+2017-05-03 11:56:14,778 INFO Time:2017/05/03 11:56  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 11:56:22,704 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:56"}
+2017-05-03 11:56:22,706 INFO Time:2017/05/03 11:56  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:57:04,957 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 11:57"}
+2017-05-03 11:57:04,959 INFO Time:2017/05/03 11:57  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 11:57:24,349 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 11:57"}
+2017-05-03 11:57:24,362 INFO Time:2017/05/03 11:57  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 12:00:47,386 INFO MQTT subscribed: 1 (0,)
+2017-05-03 12:00:53,820 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 12:00"}
+2017-05-03 12:00:53,821 INFO Time:2017/05/03 12:00  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 12:01:04,600 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:04,601 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:04,898 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:04,899 INFO Time:2017/05/03 12:01  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 12:01:05,388 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:05,389 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:05,685 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:05,686 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:06,578 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:06,579 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:06,892 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:06,893 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:07,712 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:07,713 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:11,735 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:11,736 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:12,035 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:12,036 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:12,391 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:12,392 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:01:12,738 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:01"}
+2017-05-03 12:01:12,738 INFO Time:2017/05/03 12:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:02:05,010 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:02"}
+2017-05-03 12:02:05,012 INFO Time:2017/05/03 12:02  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:03:07,812 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:03"}
+2017-05-03 12:03:07,813 INFO Time:2017/05/03 12:03  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:04:07,969 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:04"}
+2017-05-03 12:04:07,970 INFO Time:2017/05/03 12:04  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:05:04,980 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:05"}
+2017-05-03 12:05:04,981 INFO Time:2017/05/03 12:05  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:06:04,900 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:06"}
+2017-05-03 12:06:04,901 INFO Time:2017/05/03 12:06  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:07:05,132 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:07"}
+2017-05-03 12:07:05,134 INFO Time:2017/05/03 12:07  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:08:07,744 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:08"}
+2017-05-03 12:08:07,746 INFO Time:2017/05/03 12:08  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:09:04,696 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:09"}
+2017-05-03 12:09:04,697 INFO Time:2017/05/03 12:09  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:10:04,711 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:10"}
+2017-05-03 12:10:04,712 INFO Time:2017/05/03 12:10  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:11:04,697 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:11"}
+2017-05-03 12:11:04,698 INFO Time:2017/05/03 12:11  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:12:04,623 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:12"}
+2017-05-03 12:12:04,636 INFO Time:2017/05/03 12:12  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:13:04,641 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:13"}
+2017-05-03 12:13:04,643 INFO Time:2017/05/03 12:13  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:14:04,740 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:14"}
+2017-05-03 12:14:04,742 INFO Time:2017/05/03 12:14  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:15:04,741 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:15"}
+2017-05-03 12:15:04,743 INFO Time:2017/05/03 12:15  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:16:04,865 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:16"}
+2017-05-03 12:16:04,866 INFO Time:2017/05/03 12:16  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:17:04,702 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:17"}
+2017-05-03 12:17:04,703 INFO Time:2017/05/03 12:17  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:18:07,639 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:18"}
+2017-05-03 12:18:07,640 INFO Time:2017/05/03 12:18  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:19:04,969 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:19"}
+2017-05-03 12:19:04,970 INFO Time:2017/05/03 12:19  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:20:05,104 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:20"}
+2017-05-03 12:20:05,106 INFO Time:2017/05/03 12:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:21:04,750 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:21"}
+2017-05-03 12:21:04,751 INFO Time:2017/05/03 12:21  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:22:04,754 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:22"}
+2017-05-03 12:22:04,756 INFO Time:2017/05/03 12:22  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:23:05,162 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:23"}
+2017-05-03 12:23:05,164 INFO Time:2017/05/03 12:23  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:24:04,733 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:24"}
+2017-05-03 12:24:04,735 INFO Time:2017/05/03 12:24  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:25:05,000 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:25"}
+2017-05-03 12:25:05,002 INFO Time:2017/05/03 12:25  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:26:04,958 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:26"}
+2017-05-03 12:26:04,960 INFO Time:2017/05/03 12:26  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:27:05,103 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:27"}
+2017-05-03 12:27:05,104 INFO Time:2017/05/03 12:27  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:28:07,948 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:28"}
+2017-05-03 12:28:07,949 INFO Time:2017/05/03 12:28  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:29:04,945 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:29"}
+2017-05-03 12:29:04,947 INFO Time:2017/05/03 12:29  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:30:04,682 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:30"}
+2017-05-03 12:30:04,683 INFO Time:2017/05/03 12:30  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:31:05,097 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:31"}
+2017-05-03 12:31:05,099 INFO Time:2017/05/03 12:31  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:32:04,794 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:32"}
+2017-05-03 12:32:04,795 INFO Time:2017/05/03 12:32  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:33:04,915 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:33"}
+2017-05-03 12:33:04,916 INFO Time:2017/05/03 12:33  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:34:04,966 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:34"}
+2017-05-03 12:34:04,967 INFO Time:2017/05/03 12:34  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:35:05,012 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:35"}
+2017-05-03 12:35:05,013 INFO Time:2017/05/03 12:35  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:36:05,182 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:36"}
+2017-05-03 12:36:05,184 INFO Time:2017/05/03 12:36  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:37:04,889 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:37"}
+2017-05-03 12:37:04,890 INFO Time:2017/05/03 12:37  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:38:04,897 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:38"}
+2017-05-03 12:38:04,899 INFO Time:2017/05/03 12:38  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:39:04,666 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:39"}
+2017-05-03 12:39:04,667 INFO Time:2017/05/03 12:39  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:40:04,943 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:40"}
+2017-05-03 12:40:04,944 INFO Time:2017/05/03 12:40  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:41:04,772 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:41"}
+2017-05-03 12:41:04,773 INFO Time:2017/05/03 12:41  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:42:04,763 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:42"}
+2017-05-03 12:42:04,764 INFO Time:2017/05/03 12:42  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:43:04,947 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:43"}
+2017-05-03 12:43:04,949 INFO Time:2017/05/03 12:43  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:44:04,735 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:44"}
+2017-05-03 12:44:04,736 INFO Time:2017/05/03 12:44  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:45:04,644 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:45"}
+2017-05-03 12:45:04,646 INFO Time:2017/05/03 12:45  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:46:04,777 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:46"}
+2017-05-03 12:46:04,778 INFO Time:2017/05/03 12:46  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:47:04,754 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:47"}
+2017-05-03 12:47:04,760 INFO Time:2017/05/03 12:47  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:48:04,874 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:48"}
+2017-05-03 12:48:04,875 INFO Time:2017/05/03 12:48  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:49:04,827 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:49"}
+2017-05-03 12:49:04,828 INFO Time:2017/05/03 12:49  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:50:04,662 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:50"}
+2017-05-03 12:50:04,663 INFO Time:2017/05/03 12:50  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:51:04,681 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:51"}
+2017-05-03 12:51:04,682 INFO Time:2017/05/03 12:51  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:52:05,196 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:52"}
+2017-05-03 12:52:05,197 INFO Time:2017/05/03 12:52  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:53:04,653 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:53"}
+2017-05-03 12:53:04,654 INFO Time:2017/05/03 12:53  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:54:04,860 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:54"}
+2017-05-03 12:54:04,861 INFO Time:2017/05/03 12:54  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:55:04,807 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:55"}
+2017-05-03 12:55:04,808 INFO Time:2017/05/03 12:55  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:56:04,723 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:56"}
+2017-05-03 12:56:04,724 INFO Time:2017/05/03 12:56  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:57:04,842 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:57"}
+2017-05-03 12:57:04,843 INFO Time:2017/05/03 12:57  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:58:04,723 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:58"}
+2017-05-03 12:58:04,724 INFO Time:2017/05/03 12:58  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 12:59:05,029 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 12:59"}
+2017-05-03 12:59:05,030 INFO Time:2017/05/03 12:59  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:00:07,859 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:00"}
+2017-05-03 13:00:07,860 INFO Time:2017/05/03 13:00  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:01:04,677 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:01"}
+2017-05-03 13:01:04,678 INFO Time:2017/05/03 13:01  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:02:04,948 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:02"}
+2017-05-03 13:02:04,949 INFO Time:2017/05/03 13:02  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:03:05,096 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:03"}
+2017-05-03 13:03:05,097 INFO Time:2017/05/03 13:03  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:04:04,916 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:04"}
+2017-05-03 13:04:04,918 INFO Time:2017/05/03 13:04  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:05:05,247 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:05"}
+2017-05-03 13:05:05,248 INFO Time:2017/05/03 13:05  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:06:08,017 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:06"}
+2017-05-03 13:06:08,017 INFO Time:2017/05/03 13:06  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:07:05,204 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:07"}
+2017-05-03 13:07:05,205 INFO Time:2017/05/03 13:07  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:08:04,693 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:08"}
+2017-05-03 13:08:04,703 INFO Time:2017/05/03 13:08  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:09:04,823 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:09"}
+2017-05-03 13:09:04,824 INFO Time:2017/05/03 13:09  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:10:04,921 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:10"}
+2017-05-03 13:10:04,922 INFO Time:2017/05/03 13:10  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:11:04,719 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:11"}
+2017-05-03 13:11:04,720 INFO Time:2017/05/03 13:11  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:12:05,222 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:12"}
+2017-05-03 13:12:05,223 INFO Time:2017/05/03 13:12  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:13:05,416 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:13"}
+2017-05-03 13:13:05,417 INFO Time:2017/05/03 13:13  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:14:04,972 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:14"}
+2017-05-03 13:14:04,974 INFO Time:2017/05/03 13:14  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:15:05,048 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:15"}
+2017-05-03 13:15:05,050 INFO Time:2017/05/03 13:15  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:16:04,784 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:16"}
+2017-05-03 13:16:04,786 INFO Time:2017/05/03 13:16  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:17:05,021 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:17"}
+2017-05-03 13:17:05,022 INFO Time:2017/05/03 13:17  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:18:04,760 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:18"}
+2017-05-03 13:18:04,761 INFO Time:2017/05/03 13:18  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:19:04,842 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:19"}
+2017-05-03 13:19:04,844 INFO Time:2017/05/03 13:19  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:19:52,070 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 13:19"}
+2017-05-03 13:19:52,071 INFO Time:2017/05/03 13:19  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 13:19:56,246 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 13:19"}
+2017-05-03 13:19:56,247 INFO Time:2017/05/03 13:19  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 13:19:57,504 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 13:19"}
+2017-05-03 13:19:57,518 INFO Time:2017/05/03 13:19  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 13:19:58,259 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 13:19"}
+2017-05-03 13:19:58,259 INFO Time:2017/05/03 13:19  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 13:19:59,124 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 13:19"}
+2017-05-03 13:19:59,125 INFO Time:2017/05/03 13:19  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 13:20:01,977 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 13:19"}
+2017-05-03 13:20:01,979 INFO Time:2017/05/03 13:19  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 13:20:05,514 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:05,514 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:05,801 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:05,802 INFO Time:2017/05/03 13:20  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 13:20:09,394 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:09,395 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:09,705 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:09,706 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:10,055 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:10,056 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:10,393 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:10,393 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:10,720 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:10,721 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:11,054 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:11,055 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:11,394 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:11,394 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:14,760 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:14,761 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:15,111 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:15,112 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:15,447 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:15,447 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:15,787 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:15,787 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:16,135 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:16,136 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:16,471 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:16,472 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:16,810 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:16,811 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:17,150 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:17,151 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:20,484 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:20,485 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:23,823 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:23,824 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:24,164 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:24,165 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:24,507 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:24,508 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:24,844 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:24,844 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:25,179 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:25,180 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:25,518 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:25,525 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:25,862 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:25,863 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:26,219 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:26,219 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:26,553 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:26,553 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:26,900 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:26,901 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:27,356 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:27,357 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:20:27,702 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:20"}
+2017-05-03 13:20:27,703 INFO Time:2017/05/03 13:20  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:21:04,695 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:21"}
+2017-05-03 13:21:04,709 INFO Time:2017/05/03 13:21  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:22:04,942 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2003028680b016313208fd403","Time":"2017/05/03 13:22"}
+2017-05-03 13:22:04,944 INFO Time:2017/05/03 13:22  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130
+2017-05-03 13:25:11,385 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 13:25"}
+2017-05-03 13:25:11,387 INFO Time:2017/05/03 13:25  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 13:25:53,913 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 13:25"}
+2017-05-03 13:25:53,914 INFO Time:2017/05/03 13:25  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 13:26:24,575 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 13:26"}
+2017-05-03 13:26:24,577 INFO Time:2017/05/03 13:26  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 14:21:35,407 INFO MQTT subscribed: 1 (0,)
+2017-05-03 14:22:24,377 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:24,378 INFO Time:2017/05/03 14:22  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 14:22:28,613 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:28,614 INFO Time:2017/05/03 14:22  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 14:22:35,876 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:35,877 INFO Time:2017/05/03 14:22  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 14:22:38,798 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:38,799 INFO Time:2017/05/03 14:22  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:22:39,606 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:39,607 INFO Time:2017/05/03 14:22  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:22:40,393 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:40,393 INFO Time:2017/05/03 14:22  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:22:41,749 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:41,749 INFO Time:2017/05/03 14:22  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:22:44,466 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:44,467 INFO Time:2017/05/03 14:22  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 14:22:48,369 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:48,370 INFO Time:2017/05/03 14:22  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 14:22:48,699 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:48,699 INFO Time:2017/05/03 14:22  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:22:49,051 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:49,052 INFO Time:2017/05/03 14:22  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:22:52,828 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 14:22"}
+2017-05-03 14:22:52,829 INFO Time:2017/05/03 14:22  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 14:23:40,353 INFO MQTT subscribed: 1 (0,)
+2017-05-03 14:35:05,270 INFO MQTT subscribed: 1 (0,)
+2017-05-03 14:35:56,889 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 14:35"}
+2017-05-03 14:35:56,890 INFO Time:2017/05/03 14:35  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 14:35:57,514 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:35"}
+2017-05-03 14:35:57,515 INFO Time:2017/05/03 14:35  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:35:57,850 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:35"}
+2017-05-03 14:35:57,850 INFO Time:2017/05/03 14:35  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:35:58,193 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:35"}
+2017-05-03 14:35:58,194 INFO Time:2017/05/03 14:35  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:35:58,531 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:35"}
+2017-05-03 14:35:58,532 INFO Time:2017/05/03 14:35  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:35:59,377 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:35"}
+2017-05-03 14:35:59,377 INFO Time:2017/05/03 14:35  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:36:04,889 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 14:36"}
+2017-05-03 14:36:04,891 INFO Time:2017/05/03 14:36  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 14:36:06,246 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:36"}
+2017-05-03 14:36:06,247 INFO Time:2017/05/03 14:36  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:36:06,756 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 14:36"}
+2017-05-03 14:36:06,757 INFO Time:2017/05/03 14:36  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 14:37:07,283 INFO MQTT subscribed: 1 (0,)
+2017-05-03 14:39:44,486 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 14:39"}
+2017-05-03 14:39:44,488 INFO Time:2017/05/03 14:39  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 14:56:49,917 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 14:56"}
+2017-05-03 14:56:49,918 INFO Time:2017/05/03 14:56  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 14:58:27,707 INFO MQTT received: {"EmpCName":"鄧智萍","DeptNo":"AT0110","EmpNo":"200099","Uid":"3000e20081818106025513708cab","Time":"2017/05/03 14:58"}
+2017-05-03 14:58:27,707 INFO Time:2017/05/03 14:58  EmpNo:200099  EmpCName:鄧智萍 DeptNo:AT0110
+                                                                                                                                                                                                                                                                            2017-05-03 15:21:19,965 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:21:29,572 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:21"}
+2017-05-03 15:21:29,573 INFO Time:2017/05/03 15:21  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:23:31,434 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:23:36,840 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:23"}
+2017-05-03 15:23:36,841 INFO Time:2017/05/03 15:23  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:24:14,548 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:24:21,498 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:24"}
+2017-05-03 15:24:21,499 INFO Time:2017/05/03 15:24  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:25:28,452 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:25:44,872 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:25"}
+2017-05-03 15:25:44,873 INFO Time:2017/05/03 15:25  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:25:48,183 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:25"}
+2017-05-03 15:25:48,184 INFO Time:2017/05/03 15:25  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:25:51,462 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:25"}
+2017-05-03 15:25:51,464 INFO Time:2017/05/03 15:25  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 15:28:42,359 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:28:47,114 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:28"}
+2017-05-03 15:28:47,115 INFO Time:2017/05/03 15:28  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:29:01,194 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:28"}
+2017-05-03 15:29:01,196 INFO Time:2017/05/03 15:28  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:29:01,467 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:28"}
+2017-05-03 15:29:01,468 INFO Time:2017/05/03 15:28  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 15:30:36,828 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:30"}
+2017-05-03 15:30:36,829 INFO Time:2017/05/03 15:30  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:31:51,346 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:31"}
+2017-05-03 15:31:51,347 INFO Time:2017/05/03 15:31  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:31:51,651 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:31"}
+2017-05-03 15:31:51,652 INFO Time:2017/05/03 15:31  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:31:51,952 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:31"}
+2017-05-03 15:31:51,953 INFO Time:2017/05/03 15:31  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:33:04,483 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:32"}
+2017-05-03 15:33:04,484 INFO Time:2017/05/03 15:32  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:33:09,247 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:33"}
+2017-05-03 15:33:09,249 INFO Time:2017/05/03 15:33  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:36:45,335 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:37:01,092 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:36"}
+2017-05-03 15:37:01,093 INFO Time:2017/05/03 15:36  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:37:07,757 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:37"}
+2017-05-03 15:37:07,759 INFO Time:2017/05/03 15:37  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:37:25,235 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:37"}
+2017-05-03 15:37:25,237 INFO Time:2017/05/03 15:37  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:37:25,529 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:37"}
+2017-05-03 15:37:25,530 INFO Time:2017/05/03 15:37  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 15:37:43,369 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:37"}
+2017-05-03 15:37:43,371 INFO Time:2017/05/03 15:37  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:39:46,864 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:40:18,190 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:40"}
+2017-05-03 15:40:18,192 INFO Time:2017/05/03 15:40  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:40:18,512 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:40"}
+2017-05-03 15:40:18,514 INFO Time:2017/05/03 15:40  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 15:40:18,771 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:40"}
+2017-05-03 15:40:18,772 INFO Time:2017/05/03 15:40  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:41:47,142 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:41:58,357 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:41"}
+2017-05-03 15:41:58,358 INFO Time:2017/05/03 15:41  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:41:58,644 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:41"}
+2017-05-03 15:41:58,645 INFO Time:2017/05/03 15:41  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 15:41:58,903 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:41"}
+2017-05-03 15:41:58,904 INFO Time:2017/05/03 15:41  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:41:59,704 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:41"}
+2017-05-03 15:41:59,705 INFO Time:2017/05/03 15:41  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:42:07,074 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:42"}
+2017-05-03 15:42:07,075 INFO Time:2017/05/03 15:42  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:42:17,240 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:42"}
+2017-05-03 15:42:17,241 INFO Time:2017/05/03 15:42  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:44:37,233 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:44:41,053 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:44"}
+2017-05-03 15:44:41,053 INFO Time:2017/05/03 15:44  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:44:41,350 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:44"}
+2017-05-03 15:44:41,351 INFO Time:2017/05/03 15:44  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 15:44:47,446 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:44"}
+2017-05-03 15:44:47,448 INFO Time:2017/05/03 15:44  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:44:50,885 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:44"}
+2017-05-03 15:44:50,886 INFO Time:2017/05/03 15:44  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:45:32,146 INFO MQTT subscribed: 1 (0,)
+2017-05-03 15:45:46,839 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e2004000831202161010b205","Time":"2017/05/03 15:45"}
+2017-05-03 15:45:46,840 INFO Time:2017/05/03 15:45  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130
+2017-05-03 15:45:47,133 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f02781790606b03","Time":"2017/05/03 15:45"}
+2017-05-03 15:45:47,134 INFO Time:2017/05/03 15:45  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130
+2017-05-03 15:45:49,459 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:45"}
+2017-05-03 15:45:49,460 INFO Time:2017/05/03 15:45  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:45:59,876 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:45"}
+2017-05-03 15:45:59,877 INFO Time:2017/05/03 15:45  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
+2017-05-03 15:46:06,475 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2005011040f01011740613f03","Time":"2017/05/03 15:46"}
+2017-05-03 15:46:06,476 INFO Time:2017/05/03 15:46  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000
+2017-05-03 15:46:06,804 INFO MQTT received: {"EmpCName":"黎孟巡","DeptNo":"AT0130","EmpNo":"200296","Uid":"3000e20040008312022019404d93","Time":"2017/05/03 15:46"}
+2017-05-03 15:46:06,806 INFO Time:2017/05/03 15:46  EmpNo:200296  EmpCName:黎孟巡 DeptNo:AT0130
