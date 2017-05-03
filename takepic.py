@@ -9,6 +9,8 @@ import paho.mqtt.client as mqtt
 from libraryCH.device.camera import PICamera
 from libraryCH.device.lcd import ILI9341
 
+
+debugPrint = False
 #LCD顯示設定------------------------------------
 lcd = ILI9341(LCD_size_w=240, LCD_size_h=320, LCD_Rotate=270)
 
@@ -92,7 +94,7 @@ def lcd_nextLine():
 def displayUser(empNo, empName, timeString, uid):
     global lcd_LineNow
 
-    print ("lcd_LineNow={}".format(lcd_LineNow))
+    if(debugPrint==True): print ("lcd_LineNow={}".format(lcd_LineNow))
     #st = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M')
     if(lcd_LineNow>1): lcd_nextLine()
 
@@ -122,13 +124,13 @@ def takePictures(saveFolder="others"):
 
 def on_connect(mosq, obj, rc):
     mqttc.subscribe("Door-camera", 0)
-    print("rc: " + str(rc))
+    if(debugPrint==True): print("rc: " + str(rc))
 
 def on_message(mosq, obj, msg):
     global message, screenSaverNow
     #print(msg.topic + "/ " + str(msg.qos) + "/ " + str(msg.payload))
     msgReceived = str(msg.payload.decode("utf-8"))
-    print ("Received: " + msgReceived)
+    if(debugPrint==True): print ("Received: " + msgReceived)
     logger.info("MQTT received: " + msgReceived)
     lastTimeRead = time.time()
 
@@ -137,7 +139,7 @@ def on_message(mosq, obj, msg):
         jsonReply = json.loads(msgReceived)
         screenSaverNow = False
 
-        print('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
+        if(debugPrint==True): print('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
         logger.info('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
         displayUser(jsonReply["EmpNo"], jsonReply["EmpCName"], jsonReply["Time"], jsonReply["Uid"])
         if(takePhoto==True):
@@ -151,14 +153,14 @@ def on_message(mosq, obj, msg):
         logger.info('Unknow ID: ' + msgReceived)
 
 def on_publish(mosq, obj, mid):
-    print("mid: " + str(mid))
+    if(debugPrint==True): print("mid: " + str(mid))
 
 def on_subscribe(mosq, obj, mid, granted_qos):
-    print("Subscribed: " + str(mid) + " " + str(granted_qos))
+    if(debugPrint==True): print("Subscribed: " + str(mid) + " " + str(granted_qos))
     logger.info("MQTT subscribed: " + str(mid) + " " + str(granted_qos))
 
 def on_log(mosq, obj, level, string):
-    print(string)
+    if(debugPrint==True): print(string)
 
 mqttc = mqtt.Client()
 
