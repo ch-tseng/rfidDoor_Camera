@@ -84,7 +84,7 @@ def lcd_Line2Pixel(lineNum):
 def lcd_nextLine():
     global lcd_LineNow
     lcd_LineNow-=1
-    if(lcd_LineNow<0):
+    if(lcd_LineNow<1):
         lcd.displayClear()
         lcd_LineNow = 8
 
@@ -92,14 +92,16 @@ def lcd_nextLine():
 def displayUser(empNo, empName, timeString, uid):
     global lcd_LineNow
 
+    print ("lcd_LineNow={}".format(lcd_LineNow))
     #st = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M')
-    if(lcd_LineNow>0): lcd_nextLine()
+    if(lcd_LineNow>1): lcd_nextLine()
 
     lcd.displayText("cfont1.ttf", fontSize=20, text=timeString, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
     lcd.displayText("cfont1.ttf", fontSize=20, text=empNo, position=(lcd_Line2Pixel(lcd_LineNow), 110) )
     lcd.displayText("cfont1.ttf", fontSize=26, text=empName, position=(lcd_Line2Pixel(lcd_LineNow), 10) )
 
     lcd_nextLine()
+    #lcd_LineNow -= 1
     lcd.displayText("cfont1.ttf", fontSize=22, text=uid, position=(lcd_Line2Pixel(lcd_LineNow), 30), fontColor=(88,88,87) )
     #lcd_nextLine()
     #lcd.displayText("cfont1.ttf", fontSize=20, text=timeString, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
@@ -141,7 +143,7 @@ def on_message(mosq, obj, msg):
         if(takePhoto==True):
             takePictures(jsonReply["EmpNo"])
 
-        playBunch = subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
+        subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
         #os.system('omxplayer --no-osd bell.mp3')
 
     else:
