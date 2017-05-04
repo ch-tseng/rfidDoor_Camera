@@ -10,12 +10,11 @@ from libraryCH.device.camera import PICamera
 from libraryCH.device.lcd import ILI9341
 
 
-debugPrint = False
+debugPrint = True
 #LCD顯示設定------------------------------------
 lcd = ILI9341(LCD_size_w=240, LCD_size_h=320, LCD_Rotate=270)
 
 #開機及螢幕保護畫面
-screenSaverDelay = 30  #刷卡顯示, 幾秒後回到螢幕保護畫面
 lcd.displayImg("rfidbg.jpg")
 
 #是否拍照?
@@ -51,7 +50,7 @@ if(takePhoto==True):
     camera.cameraResolution(resolution=photoSize)
 
 #LCD設定
-lcd_LineNow = 8
+lcd_LineNow = 0
 lcd_lineHeight = 30  #行的高度
 lcd_totalLine = 8  # LCD的行數 (320/30=8)
 screenSaverNow = False
@@ -59,6 +58,7 @@ screenSaverNow = False
 #上次讀取到TAG的內容和時間
 lastUIDRead = ""
 lastTimeRead = time.time()
+
 
 #logging記錄
 logger = logging.getLogger('msg')
@@ -85,10 +85,10 @@ def lcd_Line2Pixel(lineNum):
 #LCD移到下一行, 若超過設定則清螢幕並回到第0行
 def lcd_nextLine():
     global lcd_LineNow
-    lcd_LineNow-=1
-    if(lcd_LineNow<1):
+    lcd_LineNow+=1
+    if(lcd_LineNow>(lcd_totalLine-1)):
         lcd.displayClear()
-        lcd_LineNow = 8
+        lcd_LineNow = 0
 
 #LCD顯示刷卡內容
 def displayUser(empNo, empName, timeString, uid):
@@ -96,19 +96,14 @@ def displayUser(empNo, empName, timeString, uid):
 
     if(debugPrint==True): print ("lcd_LineNow={}".format(lcd_LineNow))
     #st = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M')
-    if(lcd_LineNow>1): lcd_nextLine()
+    if(lcd_LineNow>0): lcd_nextLine()
+
+    lcd.displayText("cfont1.ttf", fontSize=22, text=uid, position=(lcd_Line2Pixel(lcd_LineNow), 30), fontColor=(88,88,87) )
+    lcd_nextLine()
 
     lcd.displayText("cfont1.ttf", fontSize=20, text=timeString, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
     lcd.displayText("cfont1.ttf", fontSize=20, text=empNo, position=(lcd_Line2Pixel(lcd_LineNow), 110) )
     lcd.displayText("cfont1.ttf", fontSize=26, text=empName, position=(lcd_Line2Pixel(lcd_LineNow), 10) )
-
-    lcd_nextLine()
-    #lcd_LineNow -= 1
-    lcd.displayText("cfont1.ttf", fontSize=22, text=uid, position=(lcd_Line2Pixel(lcd_LineNow), 30), fontColor=(88,88,87) )
-    #lcd_nextLine()
-    #lcd.displayText("cfont1.ttf", fontSize=20, text=timeString, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
-    #lcd.displayText("cfont1.ttf", fontSize=20, text=empNo, position=(lcd_Line2Pixel(lcd_LineNow), 110) )
-    #lcd.displayText("cfont1.ttf", fontSize=26, text=empName, position=(lcd_Line2Pixel(lcd_LineNow), 10) )
 
 def takePictures(saveFolder="others"):
     global picDelay, numPics, picturesPath
@@ -145,7 +140,8 @@ def on_message(mosq, obj, msg):
         if(takePhoto==True):
             takePictures(jsonReply["EmpNo"])
 
-        subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
+        #subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
+        subprocess.call(["omxplayer", "--no-osd", "bell.mp3"])
         #os.system('omxplayer --no-osd bell.mp3')
 
     else:
