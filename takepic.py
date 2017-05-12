@@ -11,11 +11,15 @@ from libraryCH.device.lcd import ILI9341
 
 
 debugPrint = True
+
+lcdDisplay = False
 #LCD顯示設定------------------------------------
-lcd = ILI9341(LCD_size_w=240, LCD_size_h=320, LCD_Rotate=270)
+if(lcdDisplay==True):
+    lcd = ILI9341(LCD_size_w=240, LCD_size_h=320, LCD_Rotate=90)
 
 #開機及螢幕保護畫面
-lcd.displayImg("rfidbg.jpg")
+if(lcdDisplay==True):
+    lcd.displayImg("rfidbg.jpg")
 
 #是否拍照?
 takePhoto = False
@@ -98,12 +102,11 @@ def displayUser(empNo, empName, timeString, uid):
     #st = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M')
     if(lcd_LineNow>0): lcd_nextLine()
 
-    lcd.displayText("cfont1.ttf", fontSize=22, text=uid, position=(lcd_Line2Pixel(lcd_LineNow), 30), fontColor=(88,88,87) )
-    lcd_nextLine()
-
     lcd.displayText("cfont1.ttf", fontSize=20, text=timeString, position=(lcd_Line2Pixel(lcd_LineNow), 180), fontColor=(253,244,6) )
     lcd.displayText("cfont1.ttf", fontSize=20, text=empNo, position=(lcd_Line2Pixel(lcd_LineNow), 110) )
     lcd.displayText("cfont1.ttf", fontSize=26, text=empName, position=(lcd_Line2Pixel(lcd_LineNow), 10) )
+    lcd_nextLine()
+    lcd.displayText("cfont1.ttf", fontSize=22, text=uid, position=(lcd_Line2Pixel(lcd_LineNow), 30), fontColor=(88,88,87) )
 
 def takePictures(saveFolder="others"):
     global picDelay, numPics, picturesPath
@@ -136,16 +139,24 @@ def on_message(mosq, obj, msg):
 
         if(debugPrint==True): print('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
         logger.info('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
-        displayUser(jsonReply["EmpNo"], jsonReply["EmpCName"], jsonReply["Time"], jsonReply["Uid"])
+
+        if(lcdDisplay==True):
+            displayUser(jsonReply["EmpNo"], jsonReply["EmpCName"], jsonReply["Time"], jsonReply["Uid"])
+
         if(takePhoto==True):
             takePictures(jsonReply["EmpNo"])
 
-        #subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
-        subprocess.call(["omxplayer", "--no-osd", "bell.mp3"])
-        #os.system('omxplayer --no-osd bell.mp3')
+        if(jsonReply["TagType"]=='E'):
+            #subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
+            subprocess.call(["omxplayer", "--no-osd", "bell.mp3"])
+            #os.system('omxplayer --no-osd bell.mp3')
+        elif(jsonReply["TagType"]=='A'):
+            subprocess.call(["omxplayer", "--no-osd", "warning1.mp3"])
 
     else:
-        lcd.displayText("cfont1.ttf", fontSize=24, text=msgReceived, position=(lcd_Line2Pixel(0), 10) )
+        if(lcdDisplay==True):
+            lcd.displayText("cfont1.ttf", fontSize=24, text=msgReceived, position=(lcd_Line2Pixel(0), 10) )
+
         logger.info('Unknow ID: ' + msgReceived)
 
 def on_publish(mosq, obj, mid):
