@@ -2,15 +2,20 @@
 # -*- coding: utf-8 -*-
 
 import time, os
+from time import sleep
 import json, datetime
 import logging
 import subprocess
 import paho.mqtt.client as mqtt
+import RPi.GPIO as GPIO
+GPIO.setmode(GPIO.BCM)
+
 from libraryCH.device.camera import PICamera
 from libraryCH.device.lcd import ILI9341
 
 
 debugPrint = True
+doorPin = 17
 
 lcdDisplay = False
 #LCD顯示設定------------------------------------
@@ -48,6 +53,9 @@ picDelay = 0.5
 #---------------------------------------------------------
 #You don't have to modify the code below------------------
 #---------------------------------------------------------
+GPIO.setup(doorPin, GPIO.OUT)
+GPIO.output(doorPin, 0)
+
 if(takePhoto==True):
     camera = PICamera()
     camera.CameraConfig(rotation=cameraRotate)  
@@ -120,6 +128,13 @@ def takePictures(saveFolder="others"):
         logger.info("TakePicture " + str(i) + " to " + savePath + "-" + str(i) + ".jpg")
         time.sleep(picDelay)
 
+def openDoor():
+    global doorPin
+
+    GPIO.output(doorPin, 1) 
+    sleep(0.3)
+    GPIO.output(doorPin, 0)   
+
 def on_connect(mosq, obj, rc):
     mqttc.subscribe("Door-camera", 0)
     if(debugPrint==True): print("rc: " + str(rc))
@@ -148,6 +163,7 @@ def on_message(mosq, obj, msg):
 
         if(jsonReply["TagType"]=='E'):
             #subprocess.Popen(['omxplayer', '--no-osd', 'bell.mp3'])
+            openDoor()
             subprocess.call(["omxplayer", "--no-osd", "bell.mp3"])
             #os.system('omxplayer --no-osd bell.mp3')
         elif(jsonReply["TagType"]=='A'):
