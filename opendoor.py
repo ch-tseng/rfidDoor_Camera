@@ -17,7 +17,6 @@ from libraryCH.device.lcd import ILI9341
 debugPrint = True
 doorPin = 17
 
-playHello = True
 maxHelloDelay = 30
 
 lcdDisplay = False
@@ -147,7 +146,7 @@ def on_connect(mosq, obj, rc):
     if(debugPrint==True): print("rc: " + str(rc))
 
 def on_message(mosq, obj, msg):
-    global message, screenSaverNow, lastHelloVoice, playHello, maxHelloDelay
+    global message, screenSaverNow, lastHelloVoice, maxHelloDelay
     #print(msg.topic + "/ " + str(msg.qos) + "/ " + str(msg.payload))
     msgReceived = str(msg.payload.decode("utf-8"))
     if(debugPrint==True): print ("Received: " + msgReceived)
@@ -159,8 +158,8 @@ def on_message(mosq, obj, msg):
         jsonReply = json.loads(msgReceived)
         screenSaverNow = False
 
-        if(debugPrint==True): print('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
-        logger.info('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"])
+        if(debugPrint==True): print('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"]+' People:'+jsonReply["People"])
+        logger.info('Time:'+jsonReply["Time"]+'  EmpNo:'+jsonReply["EmpNo"]+'  EmpCName:'+jsonReply["EmpCName"]+' DeptNo:'+jsonReply["DeptNo"] +' People:'+jsonReply["People"])
 
         if(lcdDisplay==True):
             displayUser(jsonReply["EmpNo"], jsonReply["EmpCName"], jsonReply["Time"], jsonReply["Uid"])
@@ -171,16 +170,16 @@ def on_message(mosq, obj, msg):
         if(jsonReply["TagType"]=='E'):
             openDoor()
 
-            if(lastHelloVoice-time.time()>maxHelloDelay):
-                if(playHello==True):
-                    subprocess.call(["omxplayer", "--no-osd", "hello.mp3"])
-                    lastHelloVoice = time.time()
+            #if( (lastHelloVoice-time.time()>maxHelloDelay) and playHello==True):
+            #    subprocess.call(["omxplayer", "--no-osd", "hello.mp3"])
+            #    lastHelloVoice = time.time()
       
-            if(int(jsonReply["EmpNo"])>1):
-                subprocess.call(["omxplayer", "--no-osd", "namemp3/"+jsonReply["EmpNo"]+".mp3"])
+            #if(int(jsonReply["People"])>1):
+            print("Speak name: {}".format("snamemp3/"+jsonReply["EmpNo"]+".mp3"))
+            subprocess.call(["omxplayer", "--no-osd", "snamemp3/"+jsonReply["EmpNo"]+".mp3"])
 
-            else:
-                subprocess.call(["omxplayer", "--no-osd", "bell.mp3"])
+            #else:
+            #    subprocess.call(["omxplayer", "--no-osd", "bell3.mp3"])
 
         elif(jsonReply["TagType"]=='A'):
             subprocess.call(["omxplayer", "--no-osd", "warning1.mp3"])
