@@ -1,2 +1,2 @@
 cd /home/pi/RFIDcamera
-/usr/bin/python3 takepic.py
+/usr/bin/python3 opendoor.py
