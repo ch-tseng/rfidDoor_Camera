@@ -78,9 +78,6 @@ screenSaverNow = False
 lastUIDRead = ""
 lastTimeRead = time.time()
 
-#儲存上次讀到的TAG員工(一個人時), 當超過2人同時進出系統唸出名字時, 讓剛剛上一次的姓名也再次唸出.
-lastTagName1 = "" 
-lastTagTime1 = 0
 
 #logging記錄
 logger = logging.getLogger('msg')
@@ -142,7 +139,7 @@ def openDoor():
     global doorPin
 
     GPIO.output(doorPin, 1) 
-    sleep(0.2)
+    sleep(0.3)
     GPIO.output(doorPin, 0)   
 
 def speakName(empNumber):
@@ -153,14 +150,14 @@ def speakName(empNumber):
 
     else:
         print("No {} file, cannot play it.".format(filename))
-        subprocess.call(["omxplayer", "--no-osd", "bell2.mp3"])
+        subprocess.call(["omxplayer", "--no-osd", "bell3.mp3"])
 
 def on_connect(mosq, obj, rc):
     mqttc.subscribe("Door-camera", 0)
     if(debugPrint==True): print("rc: " + str(rc))
 
 def on_message(mosq, obj, msg):
-    global message, screenSaverNow, lastHelloVoice, notifyWay, lastTagName1, lastTagTime1
+    global message, screenSaverNow, lastHelloVoice, notifyWay
     #print(msg.topic + "/ " + str(msg.qos) + "/ " + str(msg.payload))
     msgReceived = str(msg.payload.decode("utf-8"))
     if(debugPrint==True): print ("Received: " + msgReceived)
@@ -185,28 +182,17 @@ def on_message(mosq, obj, msg):
             openDoor()
 
             if(notifyWay==0):
-                subprocess.call(["omxplayer", "--no-osd", "bell2.mp3"])
+                subprocess.call(["omxplayer", "--no-osd", "bell3.mp3"])
 
             elif (notifyWay==1):
                 speakName(jsonReply["EmpNo"])
 
             elif (notifyWay==2):
                 if(int(jsonReply["People"])>1):
-                    #避免在多人進出時, 先偵測到一張TAG, 再接著同時幾著TAGG, 因此先唸出剛剛偵測到的人名, 再唸目前偵測到的
-                    if(time.time()-lastTagTime1<5):
-                        speakName(lastTagName1)
-                        lastTagTime1 = 0
-
                     speakName(jsonReply["EmpNo"])
 
                 else:
-                    subprocess.call(["omxplayer", "--no-osd", "bell2.mp3"])
-
-            if(int(jsonReply["People"])==1):
-                lastTagName1 = jsonReply["EmpNo"]
-                lastTagTime1 = time.time()
-
-            #openDoor()
+                    subprocess.call(["omxplayer", "--no-osd", "bell3.mp3"])
 
         elif(jsonReply["TagType"]=='A'):
             subprocess.call(["omxplayer", "--no-osd", "warning1.mp3"])

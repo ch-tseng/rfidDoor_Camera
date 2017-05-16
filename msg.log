@@ -11331,3 +11331,447 @@
 2017-05-15 14:47:50,888 INFO Time:2017/05/15 14:47  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
 2017-05-15 14:47:52,872 INFO MQTT received: {"EmpCName":"楊敏娟","DeptNo":"PM0240","EmpNo":"200154","Uid":"3000e2008181810602540930bb9f","TagType":"E","People":"1","Time":"2017/05/15 14:47"}
 2017-05-15 14:47:52,873 INFO Time:2017/05/15 14:47  EmpNo:200154  EmpCName:楊敏娟 DeptNo:PM0240 People:1
+2017-05-15 14:56:49,300 INFO MQTT subscribed: 1 (0,)
+2017-05-15 15:15:11,547 INFO MQTT received: {"EmpCName":"張延凱","DeptNo":"AT0130","EmpNo":"200280","Uid":"3000e2003028630c01161900500d","TagType":"E","People":"1","Time":"2017/05/15 15:15"}
+2017-05-15 15:15:11,548 INFO Time:2017/05/15 15:15  EmpNo:200280  EmpCName:張延凱 DeptNo:AT0130 People:1
+2017-05-15 15:16:36,475 INFO MQTT received: {"EmpCName":"鍾戌彥","DeptNo":"DE0110","EmpNo":"200348","Uid":"3000e2008181810602550770cb5f","TagType":"E","People":"1","Time":"2017/05/15 15:16"}
+2017-05-15 15:16:36,476 INFO Time:2017/05/15 15:16  EmpNo:200348  EmpCName:鍾戌彥 DeptNo:DE0110 People:1
+2017-05-15 15:22:25,680 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/15 15:22"}
+2017-05-15 15:22:25,681 INFO Time:2017/05/15 15:22  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-15 15:26:33,354 INFO MQTT received: {"EmpCName":"張德華","DeptNo":"AT0110","EmpNo":"200096","Uid":"3000e20081818106025513608caa","TagType":"E","People":"1","Time":"2017/05/15 15:26"}
+2017-05-15 15:26:33,356 INFO Time:2017/05/15 15:26  EmpNo:200096  EmpCName:張德華 DeptNo:AT0110 People:1
+2017-05-15 15:35:09,799 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/15 15:35"}
+2017-05-15 15:35:09,800 INFO Time:2017/05/15 15:35  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-15 15:40:33,747 INFO MQTT received: {"EmpCName":"黃慶鴻","DeptNo":"MA0170","EmpNo":"200325","Uid":"3000e2008181810602550710cf21","TagType":"E","People":"1","Time":"2017/05/15 15:40"}
+2017-05-15 15:40:33,748 INFO Time:2017/05/15 15:40  EmpNo:200325  EmpCName:黃慶鴻 DeptNo:MA0170 People:1
+2017-05-15 15:41:03,253 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f01011740613f","TagType":"E","People":"1","Time":"2017/05/15 15:41"}
+2017-05-15 15:41:03,254 INFO Time:2017/05/15 15:41  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
+2017-05-15 15:42:58,560 INFO MQTT received: {"EmpCName":"蔡心怡","DeptNo":"MA0110","EmpNo":"200078","Uid":"3000e2008181810602541110a6b9","TagType":"E","People":"1","Time":"2017/05/15 15:42"}
+2017-05-15 15:42:58,562 INFO Time:2017/05/15 15:42  EmpNo:200078  EmpCName:蔡心怡 DeptNo:MA0110 People:1
+2017-05-15 15:45:25,088 INFO MQTT subscribed: 1 (0,)
+2017-05-15 15:48:00,462 INFO MQTT received: {"EmpCName":"蔡連宗","DeptNo":"PD0110","EmpNo":"200164","Uid":"3000e2008181810602550630d66d","TagType":"E","People":"1","Time":"2017/05/15 15:48"}
+2017-05-15 15:48:00,462 INFO Time:2017/05/15 15:48  EmpNo:200164  EmpCName:蔡連宗 DeptNo:PD0110 People:1
+2017-05-15 15:49:41,534 INFO MQTT received: {"EmpCName":"徐明東","DeptNo":"DE0130","EmpNo":"200004","Uid":"3000e2004134701001530490dde1","TagType":"E","People":"1","Time":"2017/05/15 15:49"}
+2017-05-15 15:49:41,535 INFO Time:2017/05/15 15:49  EmpNo:200004  EmpCName:徐明東 DeptNo:DE0130 People:1
+2017-05-15 15:51:10,194 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/15 15:51"}
+2017-05-15 15:51:10,196 INFO Time:2017/05/15 15:51  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-15 15:59:09,868 INFO MQTT received: {"EmpCName":"蔡宗霖","DeptNo":"MA0130","EmpNo":"200215","Uid":"3000e2008181810602541120a6ba","TagType":"E","People":"1","Time":"2017/05/15 15:59"}
+2017-05-15 15:59:09,869 INFO Time:2017/05/15 15:59  EmpNo:200215  EmpCName:蔡宗霖 DeptNo:MA0130 People:1
+2017-05-15 16:09:32,241 INFO MQTT received: {"EmpCName":"李妍萍","DeptNo":"AT0120","EmpNo":"200134","Uid":"3000e2004134701001630490de09","TagType":"E","People":"1","Time":"2017/05/15 16:09"}
+2017-05-15 16:09:32,243 INFO Time:2017/05/15 16:09  EmpNo:200134  EmpCName:李妍萍 DeptNo:AT0120 People:1
+2017-05-15 16:18:01,090 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/15 16:18"}
+2017-05-15 16:18:01,091 INFO Time:2017/05/15 16:18  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-15 16:19:41,433 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/15 16:19"}
+2017-05-15 16:19:41,435 INFO Time:2017/05/15 16:19  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-15 16:23:03,641 INFO MQTT received: {"EmpCName":"張義諺","DeptNo":"MA0160","EmpNo":"200317","Uid":"3000e2008181810602550720cf22","TagType":"E","People":"1","Time":"2017/05/15 16:23"}
+2017-05-15 16:23:03,642 INFO Time:2017/05/15 16:23  EmpNo:200317  EmpCName:張義諺 DeptNo:MA0160 People:1
+2017-05-15 16:24:44,165 INFO MQTT subscribed: 1 (0,)
+2017-05-15 16:26:19,417 INFO MQTT received: {"EmpCName":"李麗秋","DeptNo":"AT0110","EmpNo":"A20031","Uid":"3000e2008181810602550990b369","TagType":"E","People":"1","Time":"2017/05/15 16:26"}
+2017-05-15 16:26:19,418 INFO Time:2017/05/15 16:26  EmpNo:A20031  EmpCName:李麗秋 DeptNo:AT0110 People:1
+2017-05-15 16:26:22,119 INFO MQTT received: {"EmpCName":"楊敏娟","DeptNo":"PM0240","EmpNo":"200154","Uid":"3000e2008181810602540930bb9f","TagType":"E","People":"2","Time":"2017/05/15 16:26"}
+2017-05-15 16:26:22,120 INFO Time:2017/05/15 16:26  EmpNo:200154  EmpCName:楊敏娟 DeptNo:PM0240 People:2
+2017-05-15 16:28:14,378 INFO MQTT received: {"EmpCName":"鍾戌彥","DeptNo":"DE0110","EmpNo":"200348","Uid":"3000e2008181810602550770cb5f","TagType":"E","People":"1","Time":"2017/05/15 16:28"}
+2017-05-15 16:28:14,379 INFO Time:2017/05/15 16:28  EmpNo:200348  EmpCName:鍾戌彥 DeptNo:DE0110 People:1
+2017-05-15 16:29:20,317 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/15 16:29"}
+2017-05-15 16:29:20,318 INFO Time:2017/05/15 16:29  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-15 16:31:09,478 INFO MQTT received: {"EmpCName":"徐明東","DeptNo":"DE0130","EmpNo":"200004","Uid":"3000e2004134701001530490dde1","TagType":"E","People":"1","Time":"2017/05/15 16:31"}
+2017-05-15 16:31:09,479 INFO Time:2017/05/15 16:31  EmpNo:200004  EmpCName:徐明東 DeptNo:DE0130 People:1
+2017-05-15 16:36:27,357 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/15 16:36"}
+2017-05-15 16:36:27,359 INFO Time:2017/05/15 16:36  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-15 16:39:29,284 INFO MQTT subscribed: 1 (0,)
+2017-05-15 16:39:55,058 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/15 16:39"}
+2017-05-15 16:39:55,059 INFO Time:2017/05/15 16:39  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-15 16:40:01,788 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/15 16:40"}
+2017-05-15 16:40:01,789 INFO Time:2017/05/15 16:40  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-15 16:40:45,595 INFO MQTT subscribed: 1 (0,)
+2017-05-15 16:41:06,165 INFO MQTT received: {"EmpCName":"朱陳志明","DeptNo":"PM0270","EmpNo":"200339","Uid":"3000e2008181810602550810c787","TagType":"E","People":"1","Time":"2017/05/15 16:41"}
+2017-05-15 16:41:06,166 INFO Time:2017/05/15 16:41  EmpNo:200339  EmpCName:朱陳志明 DeptNo:PM0270 People:1
+2017-05-15 16:41:19,468 INFO MQTT subscribed: 1 (0,)
+2017-05-15 16:41:25,051 INFO MQTT received: {"EmpCName":"蘇琬稜","DeptNo":"MA0130","EmpNo":"200268","Uid":"3000e2008181810602541000b366","TagType":"E","People":"1","Time":"2017/05/15 16:41"}
+2017-05-15 16:41:25,052 INFO Time:2017/05/15 16:41  EmpNo:200268  EmpCName:蘇琬稜 DeptNo:MA0130 People:1
+2017-05-15 16:41:46,688 INFO MQTT received: {"EmpCName":"楊敏娟","DeptNo":"PM0240","EmpNo":"200154","Uid":"3000e2008181810602540930bb9f","TagType":"E","People":"1","Time":"2017/05/15 16:41"}
+2017-05-15 16:41:46,689 INFO Time:2017/05/15 16:41  EmpNo:200154  EmpCName:楊敏娟 DeptNo:PM0240 People:1
+2017-05-15 16:41:52,119 INFO MQTT received: {"EmpCName":"李麗秋","DeptNo":"AT0110","EmpNo":"A20031","Uid":"3000e2008181810602550990b369","TagType":"E","People":"2","Time":"2017/05/15 16:41"}
+2017-05-15 16:41:52,120 INFO Time:2017/05/15 16:41  EmpNo:A20031  EmpCName:李麗秋 DeptNo:AT0110 People:2
+2017-05-15 16:42:16,813 INFO MQTT subscribed: 1 (0,)
+2017-05-15 16:42:26,397 INFO MQTT subscribed: 1 (0,)
+2017-05-15 16:42:54,501 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/15 16:42"}
+2017-05-15 16:42:54,502 INFO Time:2017/05/15 16:42  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-15 16:43:24,492 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/15 16:43"}
+2017-05-15 16:43:24,494 INFO Time:2017/05/15 16:43  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-15 16:44:49,999 INFO MQTT received: {"EmpCName":"蔡建忠","DeptNo":"GE0100","EmpNo":"200180","Uid":"3000e2008181810602540720cf1e","TagType":"E","People":"1","Time":"2017/05/15 16:44"}
+2017-05-15 16:44:50,000 INFO Time:2017/05/15 16:44  EmpNo:200180  EmpCName:蔡建忠 DeptNo:GE0100 People:1
+2017-05-15 16:47:19,395 INFO MQTT received: {"EmpCName":"林建中","DeptNo":"MA0160","EmpNo":"200199","Uid":"3000e2008181810602540740cf20","TagType":"E","People":"1","Time":"2017/05/15 16:47"}
+2017-05-15 16:47:19,397 INFO Time:2017/05/15 16:47  EmpNo:200199  EmpCName:林建中 DeptNo:MA0160 People:1
+2017-05-15 16:48:05,143 INFO MQTT received: {"EmpCName":"黃慶鴻","DeptNo":"MA0170","EmpNo":"200325","Uid":"3000e2008181810602550710cf21","TagType":"E","People":"1","Time":"2017/05/15 16:48"}
+2017-05-15 16:48:05,145 INFO Time:2017/05/15 16:48  EmpNo:200325  EmpCName:黃慶鴻 DeptNo:MA0170 People:1
+2017-05-15 17:00:09,746 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f01011740613f","TagType":"E","People":"1","Time":"2017/05/15 17:00"}
+2017-05-15 17:00:09,748 INFO Time:2017/05/15 17:00  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
+2017-05-15 17:05:29,179 INFO MQTT received: {"EmpCName":"張德華","DeptNo":"AT0110","EmpNo":"200096","Uid":"3000e20081818106025513608caa","TagType":"E","People":"1","Time":"2017/05/15 17:05"}
+2017-05-15 17:05:29,181 INFO Time:2017/05/15 17:05  EmpNo:200096  EmpCName:張德華 DeptNo:AT0110 People:1
+2017-05-15 17:09:42,679 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2003028680b018213209020","TagType":"E","People":"1","Time":"2017/05/15 17:09"}
+2017-05-15 17:09:42,680 INFO Time:2017/05/15 17:09  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000 People:1
+2017-05-15 17:12:41,542 INFO MQTT received: {"EmpCName":"許瑞宏","DeptNo":"PD0110","EmpNo":"200354","Uid":"3000e2008181810602550970b78f","TagType":"E","People":"1","Time":"2017/05/15 17:12"}
+2017-05-15 17:12:41,543 INFO Time:2017/05/15 17:12  EmpNo:200354  EmpCName:許瑞宏 DeptNo:PD0110 People:1
+2017-05-15 17:13:25,949 INFO MQTT received: {"EmpCName":"鄧智萍","DeptNo":"AT0110","EmpNo":"200099","Uid":"3000e20081818106025513708cab","TagType":"E","People":"1","Time":"2017/05/15 17:13"}
+2017-05-15 17:13:25,950 INFO Time:2017/05/15 17:13  EmpNo:200099  EmpCName:鄧智萍 DeptNo:AT0110 People:1
+2017-05-15 17:14:58,228 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/15 17:14"}
+2017-05-15 17:14:58,230 INFO Time:2017/05/15 17:14  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-15 17:15:00,407 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/15 17:15"}
+2017-05-15 17:15:00,408 INFO Time:2017/05/15 17:15  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-15 17:18:38,179 INFO MQTT received: {"EmpCName":"徐明東","DeptNo":"DE0130","EmpNo":"200004","Uid":"3000e2004134701001530490dde1","TagType":"E","People":"1","Time":"2017/05/15 17:18"}
+2017-05-15 17:18:38,181 INFO Time:2017/05/15 17:18  EmpNo:200004  EmpCName:徐明東 DeptNo:DE0130 People:1
+2017-05-15 17:22:43,472 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/15 17:22"}
+2017-05-15 17:22:43,474 INFO Time:2017/05/15 17:22  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-15 17:30:20,043 INFO MQTT received: {"EmpCName":"朱曉玲","DeptNo":"PM0270","EmpNo":"200341","Uid":"3000e2008181810602550660d670","TagType":"E","People":"1","Time":"2017/05/15 17:30"}
+2017-05-15 17:30:20,045 INFO Time:2017/05/15 17:30  EmpNo:200341  EmpCName:朱曉玲 DeptNo:PM0270 People:1
+2017-05-15 17:30:54,338 INFO MQTT received: {"EmpCName":"張德華","DeptNo":"AT0110","EmpNo":"200096","Uid":"3000e20081818106025513608caa","TagType":"E","People":"1","Time":"2017/05/15 17:30"}
+2017-05-15 17:30:54,340 INFO Time:2017/05/15 17:30  EmpNo:200096  EmpCName:張德華 DeptNo:AT0110 People:1
+2017-05-15 17:32:17,331 INFO MQTT received: {"EmpCName":"張延凱","DeptNo":"AT0130","EmpNo":"200280","Uid":"3000e2003028630c01161900500d","TagType":"E","People":"1","Time":"2017/05/15 17:32"}
+2017-05-15 17:32:17,333 INFO Time:2017/05/15 17:32  EmpNo:200280  EmpCName:張延凱 DeptNo:AT0130 People:1
+2017-05-15 17:33:09,863 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/15 17:33"}
+2017-05-15 17:33:09,864 INFO Time:2017/05/15 17:33  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-15 17:34:52,034 INFO MQTT received: {"EmpCName":"鄧智萍","DeptNo":"AT0110","EmpNo":"200099","Uid":"3000e20081818106025513708cab","TagType":"E","People":"1","Time":"2017/05/15 17:34"}
+2017-05-15 17:34:52,036 INFO Time:2017/05/15 17:34  EmpNo:200099  EmpCName:鄧智萍 DeptNo:AT0110 People:1
+2017-05-15 17:34:59,929 INFO MQTT received: {"EmpCName":"李妍萍","DeptNo":"AT0120","EmpNo":"200134","Uid":"3000e2004134701001630490de09","TagType":"E","People":"1","Time":"2017/05/15 17:34"}
+2017-05-15 17:34:59,931 INFO Time:2017/05/15 17:34  EmpNo:200134  EmpCName:李妍萍 DeptNo:AT0120 People:1
+2017-05-15 17:35:24,086 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/15 17:35"}
+2017-05-15 17:35:24,088 INFO Time:2017/05/15 17:35  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-15 17:36:05,922 INFO MQTT received: {"EmpCName":"伍崇和","DeptNo":"PM0270","EmpNo":"200120","Uid":"3000e2008181810602540970b78b","TagType":"E","People":"1","Time":"2017/05/15 17:36"}
+2017-05-15 17:36:05,924 INFO Time:2017/05/15 17:36  EmpNo:200120  EmpCName:伍崇和 DeptNo:PM0270 People:1
+2017-05-15 17:36:21,744 INFO MQTT received: {"EmpCName":"黎俊汶","DeptNo":"MA0130","EmpNo":"200133","Uid":"3080e20081818106025411909e1d","TagType":"E","People":"1","Time":"2017/05/15 17:36"}
+2017-05-15 17:36:21,745 INFO Time:2017/05/15 17:36  EmpNo:200133  EmpCName:黎俊汶 DeptNo:MA0130 People:1
+2017-05-15 17:36:33,445 INFO MQTT received: {"EmpCName":"呂文崇","DeptNo":"PM0230","EmpNo":"200106","Uid":"3000e2008181810602540920bb9e","TagType":"E","People":"1","Time":"2017/05/15 17:36"}
+2017-05-15 17:36:33,446 INFO Time:2017/05/15 17:36  EmpNo:200106  EmpCName:呂文崇 DeptNo:PM0230 People:1
+2017-05-15 17:39:38,406 INFO MQTT received: {"EmpCName":"林文正","DeptNo":"PM0250","EmpNo":"200103","Uid":"3000e2008181810602540950b789","TagType":"E","People":"1","Time":"2017/05/15 17:39"}
+2017-05-15 17:39:38,407 INFO Time:2017/05/15 17:39  EmpNo:200103  EmpCName:林文正 DeptNo:PM0250 People:1
+2017-05-15 17:39:58,998 INFO MQTT received: {"EmpCName":"陳勇志","DeptNo":"PD0110","EmpNo":"200307","Uid":"3000e2008181810602550830c3a1","TagType":"E","People":"1","Time":"2017/05/15 17:39"}
+2017-05-15 17:39:58,999 INFO Time:2017/05/15 17:39  EmpNo:200307  EmpCName:陳勇志 DeptNo:PD0110 People:1
+2017-05-15 17:40:01,216 INFO MQTT received: {"EmpCName":"陳勇志","DeptNo":"PD0110","EmpNo":"200307","Uid":"3000e2008181810602550830c3a1","TagType":"E","People":"1","Time":"2017/05/15 17:40"}
+2017-05-15 17:40:01,216 INFO Time:2017/05/15 17:40  EmpNo:200307  EmpCName:陳勇志 DeptNo:PD0110 People:1
+2017-05-15 17:40:09,325 INFO MQTT received: {"EmpCName":"廖映茹","DeptNo":"MA0180","EmpNo":"200349","Uid":"3000e2008181810602550780cb60","TagType":"E","People":"1","Time":"2017/05/15 17:40"}
+2017-05-15 17:40:09,327 INFO Time:2017/05/15 17:40  EmpNo:200349  EmpCName:廖映茹 DeptNo:MA0180 People:1
+2017-05-15 17:41:22,686 INFO MQTT received: {"EmpCName":"葉卉庭","DeptNo":"AT0120","EmpNo":"200313","Uid":"3000e2005011040f011217805cf0","TagType":"E","People":"1","Time":"2017/05/15 17:41"}
+2017-05-15 17:41:22,688 INFO Time:2017/05/15 17:41  EmpNo:200313  EmpCName:葉卉庭 DeptNo:AT0120 People:1
+2017-05-15 17:42:56,950 INFO MQTT received: {"EmpCName":"郭芝伊","DeptNo":"MA0180","EmpNo":"200121","Uid":"3000e2008181810602540790c781","TagType":"E","People":"2","Time":"2017/05/15 17:42"}
+2017-05-15 17:42:56,952 INFO Time:2017/05/15 17:42  EmpNo:200121  EmpCName:郭芝伊 DeptNo:MA0180 People:2
+2017-05-15 17:42:59,011 INFO MQTT received: {"EmpCName":"張雅婷","DeptNo":"MA0180","EmpNo":"200353","Uid":"3000e2008181810602550760cb5e","TagType":"E","People":"2","Time":"2017/05/15 17:42"}
+2017-05-15 17:42:59,013 INFO Time:2017/05/15 17:42  EmpNo:200353  EmpCName:張雅婷 DeptNo:MA0180 People:2
+2017-05-15 17:43:36,649 INFO MQTT received: {"EmpCName":"蔡連宗","DeptNo":"PD0110","EmpNo":"200164","Uid":"3000e2008181810602550630d66d","TagType":"E","People":"1","Time":"2017/05/15 17:43"}
+2017-05-15 17:43:36,650 INFO Time:2017/05/15 17:43  EmpNo:200164  EmpCName:蔡連宗 DeptNo:PD0110 People:1
+2017-05-15 17:45:38,776 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/15 17:45"}
+2017-05-15 17:45:38,777 INFO Time:2017/05/15 17:45  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-15 17:45:45,230 INFO MQTT received: {"EmpCName":"黃慶鴻","DeptNo":"MA0170","EmpNo":"200325","Uid":"3000e2008181810602550710cf21","TagType":"E","People":"1","Time":"2017/05/15 17:45"}
+2017-05-15 17:45:45,232 INFO Time:2017/05/15 17:45  EmpNo:200325  EmpCName:黃慶鴻 DeptNo:MA0170 People:1
+2017-05-15 17:47:00,655 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/15 17:47"}
+2017-05-15 17:47:00,656 INFO Time:2017/05/15 17:47  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-15 17:47:04,904 INFO MQTT received: {"EmpCName":"蔡連宗","DeptNo":"PD0110","EmpNo":"200164","Uid":"3000e2008181810602550630d66d","TagType":"E","People":"1","Time":"2017/05/15 17:47"}
+2017-05-15 17:47:04,905 INFO Time:2017/05/15 17:47  EmpNo:200164  EmpCName:蔡連宗 DeptNo:PD0110 People:1
+2017-05-15 17:50:02,532 INFO MQTT received: {"EmpCName":"吳宗翰","DeptNo":"MA0100","EmpNo":"200197","Uid":"3000e2008181810602540770cb5b","TagType":"E","People":"1","Time":"2017/05/15 17:50"}
+2017-05-15 17:50:02,533 INFO Time:2017/05/15 17:50  EmpNo:200197  EmpCName:吳宗翰 DeptNo:MA0100 People:1
+2017-05-15 17:56:45,115 INFO MQTT received: {"EmpCName":"蔡心怡","DeptNo":"MA0110","EmpNo":"200078","Uid":"3000e2008181810602541110a6b9","TagType":"E","People":"1","Time":"2017/05/15 17:56"}
+2017-05-15 17:56:45,124 INFO Time:2017/05/15 17:56  EmpNo:200078  EmpCName:蔡心怡 DeptNo:MA0110 People:1
+2017-05-15 18:01:04,029 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/15 18:01"}
+2017-05-15 18:01:04,030 INFO Time:2017/05/15 18:01  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-15 18:05:51,144 INFO MQTT received: {"EmpCName":"張義諺","DeptNo":"MA0160","EmpNo":"200317","Uid":"3000e2008181810602550720cf22","TagType":"E","People":"1","Time":"2017/05/15 18:05"}
+2017-05-15 18:05:51,145 INFO Time:2017/05/15 18:05  EmpNo:200317  EmpCName:張義諺 DeptNo:MA0160 People:1
+2017-05-15 18:06:09,546 INFO MQTT received: {"EmpCName":"洪珮榕","DeptNo":"MA0110","EmpNo":"200094","Uid":"3000e2005011040f02781790606b","TagType":"E","People":"1","Time":"2017/05/15 18:06"}
+2017-05-15 18:06:09,547 INFO Time:2017/05/15 18:06  EmpNo:200094  EmpCName:洪珮榕 DeptNo:MA0110 People:1
+2017-05-15 18:10:51,814 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e20030286c0b01811320901c","TagType":"E","People":"1","Time":"2017/05/15 18:10"}
+2017-05-15 18:10:51,816 INFO Time:2017/05/15 18:10  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130 People:1
+2017-05-15 18:11:07,048 INFO MQTT received: {"EmpCName":"林建中","DeptNo":"MA0160","EmpNo":"200199","Uid":"3000e2008181810602540740cf20","TagType":"E","People":"1","Time":"2017/05/15 18:11"}
+2017-05-15 18:11:07,050 INFO Time:2017/05/15 18:11  EmpNo:200199  EmpCName:林建中 DeptNo:MA0160 People:1
+2017-05-15 18:14:12,862 INFO MQTT received: {"EmpCName":"吳國炎","DeptNo":"MA0150","EmpNo":"200184","Uid":"3000e2008181810602541050af3b","TagType":"E","People":"1","Time":"2017/05/15 18:14"}
+2017-05-15 18:14:12,863 INFO Time:2017/05/15 18:14  EmpNo:200184  EmpCName:吳國炎 DeptNo:MA0150 People:1
+2017-05-15 18:15:47,752 INFO MQTT received: {"EmpCName":"朱得銘","DeptNo":"MA0150","EmpNo":"200332","Uid":"3000e2008181810602541130a6bb","TagType":"E","People":"1","Time":"2017/05/15 18:15"}
+2017-05-15 18:15:47,753 INFO Time:2017/05/15 18:15  EmpNo:200332  EmpCName:朱得銘 DeptNo:MA0150 People:1
+2017-05-15 18:16:01,880 INFO MQTT received: {"EmpCName":"黃彥強","DeptNo":"MA0160","EmpNo":"200335","Uid":"3000e2008181810602550800c786","TagType":"E","People":"1","Time":"2017/05/15 18:16"}
+2017-05-15 18:16:01,882 INFO Time:2017/05/15 18:16  EmpNo:200335  EmpCName:黃彥強 DeptNo:MA0160 People:1
+2017-05-15 18:18:13,596 INFO MQTT received: {"EmpCName":"陳奕昇","DeptNo":"AU0110","EmpNo":"200355","Uid":"3000e2008181810602550980b790","TagType":"E","People":"1","Time":"2017/05/15 18:18"}
+2017-05-15 18:18:13,598 INFO Time:2017/05/15 18:18  EmpNo:200355  EmpCName:陳奕昇 DeptNo:AU0110 People:1
+2017-05-15 18:19:40,222 INFO MQTT received: {"EmpCName":"許瑞宏","DeptNo":"PD0110","EmpNo":"200354","Uid":"3000e2008181810602550970b78f","TagType":"E","People":"1","Time":"2017/05/15 18:19"}
+2017-05-15 18:19:40,224 INFO Time:2017/05/15 18:19  EmpNo:200354  EmpCName:許瑞宏 DeptNo:PD0110 People:1
+2017-05-15 18:21:54,528 INFO MQTT received: {"EmpCName":"張義諺","DeptNo":"MA0160","EmpNo":"200317","Uid":"3000e2008181810602550720cf22","TagType":"E","People":"1","Time":"2017/05/15 18:21"}
+2017-05-15 18:21:54,529 INFO Time:2017/05/15 18:21  EmpNo:200317  EmpCName:張義諺 DeptNo:MA0160 People:1
+2017-05-15 18:27:20,670 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/15 18:27"}
+2017-05-15 18:27:20,671 INFO Time:2017/05/15 18:27  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-15 18:27:22,610 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/15 18:27"}
+2017-05-15 18:27:22,611 INFO Time:2017/05/15 18:27  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-15 18:27:47,865 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/15 18:27"}
+2017-05-15 18:27:47,866 INFO Time:2017/05/15 18:27  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-15 18:28:00,455 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/15 18:28"}
+2017-05-15 18:28:00,457 INFO Time:2017/05/15 18:28  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-15 18:28:52,591 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/15 18:28"}
+2017-05-15 18:28:52,592 INFO Time:2017/05/15 18:28  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-15 18:30:07,379 INFO MQTT received: {"EmpCName":"陳光磊","DeptNo":"MA0160","EmpNo":"200265","Uid":"3000e2008181810602540600d9ee","TagType":"E","People":"1","Time":"2017/05/15 18:30"}
+2017-05-15 18:30:07,381 INFO Time:2017/05/15 18:30  EmpNo:200265  EmpCName:陳光磊 DeptNo:MA0160 People:1
+2017-05-15 18:30:30,684 INFO MQTT received: {"EmpCName":"陳勇志","DeptNo":"PD0110","EmpNo":"200307","Uid":"3000e2008181810602550830c3a1","TagType":"E","People":"1","Time":"2017/05/15 18:30"}
+2017-05-15 18:30:30,686 INFO Time:2017/05/15 18:30  EmpNo:200307  EmpCName:陳勇志 DeptNo:PD0110 People:1
+2017-05-15 18:31:19,537 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/15 18:31"}
+2017-05-15 18:31:19,538 INFO Time:2017/05/15 18:31  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-15 18:34:03,131 INFO MQTT received: {"EmpCName":"趙峰亭","DeptNo":"MA0160","EmpNo":"200316","Uid":"3000e2004134701001520490dddd","TagType":"E","People":"1","Time":"2017/05/15 18:34"}
+2017-05-15 18:34:03,133 INFO Time:2017/05/15 18:34  EmpNo:200316  EmpCName:趙峰亭 DeptNo:MA0160 People:1
+2017-05-15 18:34:14,998 INFO MQTT received: {"EmpCName":"鍾戌彥","DeptNo":"DE0110","EmpNo":"200348","Uid":"3000e2008181810602550770cb5f","TagType":"E","People":"1","Time":"2017/05/15 18:34"}
+2017-05-15 18:34:14,999 INFO Time:2017/05/15 18:34  EmpNo:200348  EmpCName:鍾戌彥 DeptNo:DE0110 People:1
+2017-05-15 18:39:35,277 INFO MQTT received: {"EmpCName":"林盟智","DeptNo":"DE0100","EmpNo":"200009","Uid":"3000e2008181810602540800c782","TagType":"E","People":"1","Time":"2017/05/15 18:39"}
+2017-05-15 18:39:35,279 INFO Time:2017/05/15 18:39  EmpNo:200009  EmpCName:林盟智 DeptNo:DE0100 People:1
+2017-05-15 18:52:09,511 INFO MQTT received: {"EmpCName":"吳宗翰","DeptNo":"MA0100","EmpNo":"200197","Uid":"3000e2008181810602540770cb5b","TagType":"E","People":"1","Time":"2017/05/15 18:52"}
+2017-05-15 18:52:09,513 INFO Time:2017/05/15 18:52  EmpNo:200197  EmpCName:吳宗翰 DeptNo:MA0100 People:1
+2017-05-15 18:56:40,875 INFO MQTT received: {"EmpCName":"林盟智","DeptNo":"DE0100","EmpNo":"200009","Uid":"3000e2008181810602540800c782","TagType":"E","People":"1","Time":"2017/05/15 18:56"}
+2017-05-15 18:56:40,877 INFO Time:2017/05/15 18:56  EmpNo:200009  EmpCName:林盟智 DeptNo:DE0100 People:1
+2017-05-15 19:01:58,593 INFO MQTT received: {"EmpCName":"林啟賢","DeptNo":"AU0110","EmpNo":"200342","Uid":"3000e2008181810602550670d2d1","TagType":"E","People":"1","Time":"2017/05/15 19:01"}
+2017-05-15 19:01:58,595 INFO Time:2017/05/15 19:01  EmpNo:200342  EmpCName:林啟賢 DeptNo:AU0110 People:1
+2017-05-15 19:02:00,575 INFO MQTT received: {"EmpCName":"林啟賢","DeptNo":"AU0110","EmpNo":"200342","Uid":"3000e2008181810602550670d2d1","TagType":"E","People":"1","Time":"2017/05/15 19:02"}
+2017-05-15 19:02:00,575 INFO Time:2017/05/15 19:02  EmpNo:200342  EmpCName:林啟賢 DeptNo:AU0110 People:1
+2017-05-15 19:04:05,498 INFO MQTT received: {"EmpCName":"蔡宗霖","DeptNo":"MA0130","EmpNo":"200215","Uid":"3000e2008181810602541120a6ba","TagType":"E","People":"1","Time":"2017/05/15 19:04"}
+2017-05-15 19:04:05,500 INFO Time:2017/05/15 19:04  EmpNo:200215  EmpCName:蔡宗霖 DeptNo:MA0130 People:1
+2017-05-15 19:05:35,295 INFO MQTT received: {"EmpCName":"林啟賢","DeptNo":"AU0110","EmpNo":"200342","Uid":"3000e2008181810602550670d2d1","TagType":"E","People":"1","Time":"2017/05/15 19:05"}
+2017-05-15 19:05:35,296 INFO Time:2017/05/15 19:05  EmpNo:200342  EmpCName:林啟賢 DeptNo:AU0110 People:1
+2017-05-15 19:20:28,108 INFO MQTT received: {"EmpCName":"莊喬棟","DeptNo":"PD0100","EmpNo":"200010","Uid":"3000e2008181810602540850c39f","TagType":"E","People":"1","Time":"2017/05/15 19:20"}
+2017-05-15 19:20:28,109 INFO Time:2017/05/15 19:20  EmpNo:200010  EmpCName:莊喬棟 DeptNo:PD0100 People:1
+2017-05-15 19:20:34,810 INFO MQTT received: {"EmpCName":"許世杰","DeptNo":"GE0000","EmpNo":"200020","Uid":"3000e2008181810602540860c3a0","TagType":"E","People":"1","Time":"2017/05/15 19:20"}
+2017-05-15 19:20:34,812 INFO Time:2017/05/15 19:20  EmpNo:200020  EmpCName:許世杰 DeptNo:GE0000 People:1
+2017-05-15 19:22:37,014 INFO MQTT received: {"EmpCName":"徐明東","DeptNo":"DE0130","EmpNo":"200004","Uid":"3000e2004134701001530490dde1","TagType":"E","People":"1","Time":"2017/05/15 19:22"}
+2017-05-15 19:22:37,016 INFO Time:2017/05/15 19:22  EmpNo:200004  EmpCName:徐明東 DeptNo:DE0130 People:1
+2017-05-15 19:23:00,147 INFO MQTT received: {"EmpCName":"蘇琬稜","DeptNo":"MA0130","EmpNo":"200268","Uid":"3000e2008181810602541000b366","TagType":"E","People":"1","Time":"2017/05/15 19:23"}
+2017-05-15 19:23:00,148 INFO Time:2017/05/15 19:23  EmpNo:200268  EmpCName:蘇琬稜 DeptNo:MA0130 People:1
+2017-05-15 19:23:04,259 INFO MQTT received: {"EmpCName":"郭芝伊","DeptNo":"MA0180","EmpNo":"200121","Uid":"3000e2008181810602540790c781","TagType":"E","People":"1","Time":"2017/05/15 19:23"}
+2017-05-15 19:23:04,260 INFO Time:2017/05/15 19:23  EmpNo:200121  EmpCName:郭芝伊 DeptNo:MA0180 People:1
+2017-05-15 19:23:53,381 INFO MQTT received: {"EmpCName":"余國華","DeptNo":"PD0120","EmpNo":"200027","Uid":"3000e2008181810602540820c784","TagType":"E","People":"1","Time":"2017/05/15 19:23"}
+2017-05-15 19:23:53,382 INFO Time:2017/05/15 19:23  EmpNo:200027  EmpCName:余國華 DeptNo:PD0120 People:1
+2017-05-15 19:24:06,600 INFO MQTT received: {"EmpCName":"蔡連宗","DeptNo":"PD0110","EmpNo":"200164","Uid":"3000e2008181810602550630d66d","TagType":"E","People":"1","Time":"2017/05/15 19:24"}
+2017-05-15 19:24:06,602 INFO Time:2017/05/15 19:24  EmpNo:200164  EmpCName:蔡連宗 DeptNo:PD0110 People:1
+2017-05-15 19:24:53,204 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/15 19:24"}
+2017-05-15 19:24:53,206 INFO Time:2017/05/15 19:24  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-15 19:39:13,361 INFO MQTT received: {"EmpCName":"張世良","DeptNo":"MA0150","EmpNo":"200206","Uid":"3000e2008181810602541140a6bc","TagType":"E","People":"1","Time":"2017/05/15 19:39"}
+2017-05-15 19:39:13,363 INFO Time:2017/05/15 19:39  EmpNo:200206  EmpCName:張世良 DeptNo:MA0150 People:1
+2017-05-15 19:41:44,754 INFO MQTT received: {"EmpCName":"郭芝伊","DeptNo":"MA0180","EmpNo":"200121","Uid":"3000e2008181810602540790c781","TagType":"E","People":"1","Time":"2017/05/15 19:41"}
+2017-05-15 19:41:44,755 INFO Time:2017/05/15 19:41  EmpNo:200121  EmpCName:郭芝伊 DeptNo:MA0180 People:1
+2017-05-15 20:12:21,705 INFO MQTT received: {"EmpCName":"黃慶鴻","DeptNo":"MA0170","EmpNo":"200325","Uid":"3000e2008181810602550710cf21","TagType":"E","People":"1","Time":"2017/05/15 20:12"}
+2017-05-15 20:12:21,707 INFO Time:2017/05/15 20:12  EmpNo:200325  EmpCName:黃慶鴻 DeptNo:MA0170 People:1
+2017-05-15 20:23:33,053 INFO MQTT received: {"EmpCName":"黃偉倫","DeptNo":"PD0110","EmpNo":"200350","Uid":"3000e2008181810602541180a270","TagType":"E","People":"1","Time":"2017/05/15 20:23"}
+2017-05-15 20:23:33,054 INFO Time:2017/05/15 20:23  EmpNo:200350  EmpCName:黃偉倫 DeptNo:PD0110 People:1
+2017-05-15 20:35:42,641 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2003028680b018213209020","TagType":"E","People":"1","Time":"2017/05/15 20:35"}
+2017-05-15 20:35:42,643 INFO Time:2017/05/15 20:35  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000 People:1
+2017-05-15 20:44:20,775 INFO MQTT received: {"EmpCName":"葉則汎","DeptNo":"MA0150","EmpNo":"200343","Uid":"3000e2008181810602541040af3a","TagType":"E","People":"1","Time":"2017/05/15 20:44"}
+2017-05-15 20:44:20,776 INFO Time:2017/05/15 20:44  EmpNo:200343  EmpCName:葉則汎 DeptNo:MA0150 People:1
+2017-05-15 20:45:01,593 INFO MQTT received: {"EmpCName":"吳國炎","DeptNo":"MA0150","EmpNo":"200184","Uid":"3000e2008181810602541050af3b","TagType":"E","People":"1","Time":"2017/05/15 20:45"}
+2017-05-15 20:45:01,595 INFO Time:2017/05/15 20:45  EmpNo:200184  EmpCName:吳國炎 DeptNo:MA0150 People:1
+2017-05-15 20:47:56,450 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/15 20:47"}
+2017-05-15 20:47:56,451 INFO Time:2017/05/15 20:47  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-16 01:52:15,363 INFO MQTT subscribed: 1 (0,)
+2017-05-16 07:29:57,107 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2003028680b018213209020","TagType":"E","People":"1","Time":"2017/05/16 07:29"}
+2017-05-16 07:29:57,109 INFO Time:2017/05/16 07:29  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000 People:1
+2017-05-16 08:09:50,204 INFO MQTT received: {"EmpCName":"李予善","DeptNo":"MA0170","EmpNo":"200127","Uid":"3000e2008181810602540990b365","TagType":"E","People":"1","Time":"2017/05/16 08:09"}
+2017-05-16 08:09:50,206 INFO Time:2017/05/16 08:09  EmpNo:200127  EmpCName:李予善 DeptNo:MA0170 People:1
+2017-05-16 08:22:08,944 INFO MQTT received: {"EmpCName":"鍾戌彥","DeptNo":"DE0110","EmpNo":"200348","Uid":"3000e2008181810602550770cb5f","TagType":"E","People":"1","Time":"2017/05/16 08:22"}
+2017-05-16 08:22:08,946 INFO Time:2017/05/16 08:22  EmpNo:200348  EmpCName:鍾戌彥 DeptNo:DE0110 People:1
+2017-05-16 08:30:19,220 INFO MQTT received: {"EmpCName":"陳宗裕","DeptNo":"PM0260","EmpNo":"200260","Uid":"3000e2008181810602540610d9ef","TagType":"E","People":"1","Time":"2017/05/16 08:30"}
+2017-05-16 08:30:19,221 INFO Time:2017/05/16 08:30  EmpNo:200260  EmpCName:陳宗裕 DeptNo:PM0260 People:1
+2017-05-16 08:31:18,455 INFO MQTT received: {"EmpCName":"黎俊汶","DeptNo":"MA0130","EmpNo":"200133","Uid":"3080e20081818106025411909e1d","TagType":"E","People":"1","Time":"2017/05/16 08:31"}
+2017-05-16 08:31:18,456 INFO Time:2017/05/16 08:31  EmpNo:200133  EmpCName:黎俊汶 DeptNo:MA0130 People:1
+2017-05-16 08:34:03,218 INFO MQTT received: {"EmpCName":"蔡宗霖","DeptNo":"MA0130","EmpNo":"200215","Uid":"3000e2008181810602541120a6ba","TagType":"E","People":"1","Time":"2017/05/16 08:34"}
+2017-05-16 08:34:03,220 INFO Time:2017/05/16 08:34  EmpNo:200215  EmpCName:蔡宗霖 DeptNo:MA0130 People:1
+2017-05-16 08:34:23,559 INFO MQTT received: {"EmpCName":"張維珊","DeptNo":"AT0120","EmpNo":"200289","Uid":"3000e20041347010020823202608","TagType":"E","People":"1","Time":"2017/05/16 08:34"}
+2017-05-16 08:34:23,561 INFO Time:2017/05/16 08:34  EmpNo:200289  EmpCName:張維珊 DeptNo:AT0120 People:1
+2017-05-16 08:34:27,879 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/16 08:34"}
+2017-05-16 08:34:27,880 INFO Time:2017/05/16 08:34  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-16 08:35:07,033 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/16 08:35"}
+2017-05-16 08:35:07,035 INFO Time:2017/05/16 08:35  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-16 08:36:21,238 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/16 08:36"}
+2017-05-16 08:36:21,240 INFO Time:2017/05/16 08:36  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-16 08:36:23,804 INFO MQTT received: {"EmpCName":"陳智凱","DeptNo":"AT0130","EmpNo":"200249","Uid":"3000e2008181810602551410884b","TagType":"E","People":"1","Time":"2017/05/16 08:36"}
+2017-05-16 08:36:23,805 INFO Time:2017/05/16 08:36  EmpNo:200249  EmpCName:陳智凱 DeptNo:AT0130 People:1
+2017-05-16 08:36:27,342 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 08:36"}
+2017-05-16 08:36:27,343 INFO Time:2017/05/16 08:36  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-16 08:48:31,527 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 08:48"}
+2017-05-16 08:48:31,529 INFO Time:2017/05/16 08:48  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 08:51:01,479 INFO MQTT received: {"EmpCName":"張義諺","DeptNo":"MA0160","EmpNo":"200317","Uid":"3000e2008181810602550720cf22","TagType":"E","People":"1","Time":"2017/05/16 08:51"}
+2017-05-16 08:51:01,480 INFO Time:2017/05/16 08:51  EmpNo:200317  EmpCName:張義諺 DeptNo:MA0160 People:1
+2017-05-16 08:58:47,359 INFO MQTT received: {"EmpCName":"黃建凱","DeptNo":"MA0180","EmpNo":"200087","Uid":"3000e2008181810602540900bfa8","TagType":"E","People":"1","Time":"2017/05/16 08:58"}
+2017-05-16 08:58:47,361 INFO Time:2017/05/16 08:58  EmpNo:200087  EmpCName:黃建凱 DeptNo:MA0180 People:1
+2017-05-16 08:59:23,456 INFO MQTT received: {"EmpCName":"黃建凱","DeptNo":"MA0180","EmpNo":"200087","Uid":"3000e2008181810602540900bfa8","TagType":"E","People":"1","Time":"2017/05/16 08:59"}
+2017-05-16 08:59:23,458 INFO Time:2017/05/16 08:59  EmpNo:200087  EmpCName:黃建凱 DeptNo:MA0180 People:1
+2017-05-16 09:03:21,861 INFO MQTT received: {"EmpCName":"林盟智","DeptNo":"DE0100","EmpNo":"200009","Uid":"3000e2008181810602540800c782","TagType":"E","People":"1","Time":"2017/05/16 09:03"}
+2017-05-16 09:03:21,863 INFO Time:2017/05/16 09:03  EmpNo:200009  EmpCName:林盟智 DeptNo:DE0100 People:1
+2017-05-16 09:08:55,031 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/16 09:08"}
+2017-05-16 09:08:55,032 INFO Time:2017/05/16 09:08  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-16 09:09:00,780 INFO MQTT received: {"EmpCName":"林國清","DeptNo":"MA0170","EmpNo":"200303","Uid":"3000e2008181810602550650d66f","TagType":"E","People":"1","Time":"2017/05/16 09:09"}
+2017-05-16 09:09:00,788 INFO Time:2017/05/16 09:09  EmpNo:200303  EmpCName:林國清 DeptNo:MA0170 People:1
+2017-05-16 09:12:23,362 INFO MQTT received: {"EmpCName":"鍾戌彥","DeptNo":"DE0110","EmpNo":"200348","Uid":"3000e2008181810602550770cb5f","TagType":"E","People":"1","Time":"2017/05/16 09:12"}
+2017-05-16 09:12:23,364 INFO Time:2017/05/16 09:12  EmpNo:200348  EmpCName:鍾戌彥 DeptNo:DE0110 People:1
+2017-05-16 09:17:33,141 INFO MQTT received: {"EmpCName":"陳筌傑","DeptNo":"PD0130","EmpNo":"200356","Uid":"3000e2008181810602551000b36a","TagType":"E","People":"1","Time":"2017/05/16 09:17"}
+2017-05-16 09:17:33,143 INFO Time:2017/05/16 09:17  EmpNo:200356  EmpCName:陳筌傑 DeptNo:PD0130 People:1
+2017-05-16 09:18:37,999 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 09:18"}
+2017-05-16 09:18:38,000 INFO Time:2017/05/16 09:18  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-16 09:20:01,096 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/16 09:20"}
+2017-05-16 09:20:01,098 INFO Time:2017/05/16 09:20  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-16 09:20:37,116 INFO MQTT received: {"EmpCName":"蕭文鎮","DeptNo":"DE0130","EmpNo":"200141","Uid":"3000e2008181810602540830c39d","TagType":"E","People":"1","Time":"2017/05/16 09:20"}
+2017-05-16 09:20:37,118 INFO Time:2017/05/16 09:20  EmpNo:200141  EmpCName:蕭文鎮 DeptNo:DE0130 People:1
+2017-05-16 09:28:19,451 INFO MQTT subscribed: 1 (0,)
+2017-05-16 09:28:42,885 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f01011740613f","TagType":"E","People":"1","Time":"2017/05/16 09:28"}
+2017-05-16 09:28:42,886 INFO Time:2017/05/16 09:28  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
+2017-05-16 09:28:44,615 INFO MQTT received: {"EmpCName":"李麗秋","DeptNo":"AT0110","EmpNo":"A20031","Uid":"3000e2008181810602550990b369","TagType":"E","People":"2","Time":"2017/05/16 09:28"}
+2017-05-16 09:28:44,616 INFO Time:2017/05/16 09:28  EmpNo:A20031  EmpCName:李麗秋 DeptNo:AT0110 People:2
+2017-05-16 09:28:48,179 INFO MQTT received: {"EmpCName":"楊敏娟","DeptNo":"PM0240","EmpNo":"200154","Uid":"3000e2008181810602540930bb9f","TagType":"E","People":"3","Time":"2017/05/16 09:28"}
+2017-05-16 09:28:48,181 INFO Time:2017/05/16 09:28  EmpNo:200154  EmpCName:楊敏娟 DeptNo:PM0240 People:3
+2017-05-16 09:31:34,552 INFO MQTT subscribed: 1 (0,)
+2017-05-16 09:31:55,672 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f01011740613f","TagType":"E","People":"1","Time":"2017/05/16 09:31"}
+2017-05-16 09:31:55,673 INFO Time:2017/05/16 09:31  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
+2017-05-16 09:32:00,232 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f01011740613f","TagType":"E","People":"1","Time":"2017/05/16 09:32"}
+2017-05-16 09:32:00,233 INFO Time:2017/05/16 09:32  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
+2017-05-16 09:32:39,894 INFO MQTT received: {"EmpCName":"蔡連宗","DeptNo":"PD0110","EmpNo":"200164","Uid":"3000e2008181810602550630d66d","TagType":"E","People":"1","Time":"2017/05/16 09:32"}
+2017-05-16 09:32:39,896 INFO Time:2017/05/16 09:32  EmpNo:200164  EmpCName:蔡連宗 DeptNo:PD0110 People:1
+2017-05-16 09:34:21,502 INFO MQTT subscribed: 1 (0,)
+2017-05-16 09:39:35,327 INFO MQTT received: {"EmpCName":"張德華","DeptNo":"AT0110","EmpNo":"200096","Uid":"3000e20081818106025513608caa","TagType":"E","People":"1","Time":"2017/05/16 09:39"}
+2017-05-16 09:39:35,328 INFO Time:2017/05/16 09:39  EmpNo:200096  EmpCName:張德華 DeptNo:AT0110 People:1
+2017-05-16 09:43:30,723 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2003028680b018213209020","TagType":"E","People":"1","Time":"2017/05/16 09:43"}
+2017-05-16 09:43:30,725 INFO Time:2017/05/16 09:43  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000 People:1
+2017-05-16 09:52:12,699 INFO MQTT received: {"EmpCName":"李妍萍","DeptNo":"AT0120","EmpNo":"200134","Uid":"3000e2004134701001630490de09","TagType":"E","People":"1","Time":"2017/05/16 09:52"}
+2017-05-16 09:52:12,700 INFO Time:2017/05/16 09:52  EmpNo:200134  EmpCName:李妍萍 DeptNo:AT0120 People:1
+2017-05-16 09:54:30,471 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 09:54"}
+2017-05-16 09:54:30,472 INFO Time:2017/05/16 09:54  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-16 09:57:06,759 INFO MQTT received: {"EmpCName":"吳國炎","DeptNo":"MA0150","EmpNo":"200184","Uid":"3000e2008181810602541050af3b","TagType":"E","People":"1","Time":"2017/05/16 09:57"}
+2017-05-16 09:57:06,761 INFO Time:2017/05/16 09:57  EmpNo:200184  EmpCName:吳國炎 DeptNo:MA0150 People:1
+2017-05-16 10:03:21,569 INFO MQTT received: {"EmpCName":"許世杰","DeptNo":"GE0000","EmpNo":"200020","Uid":"3000e2008181810602540860c3a0","TagType":"E","People":"1","Time":"2017/05/16 10:03"}
+2017-05-16 10:03:21,570 INFO Time:2017/05/16 10:03  EmpNo:200020  EmpCName:許世杰 DeptNo:GE0000 People:1
+2017-05-16 10:03:40,137 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/16 10:03"}
+2017-05-16 10:03:40,138 INFO Time:2017/05/16 10:03  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-16 10:05:25,712 INFO MQTT received: {"EmpCName":"蔡心怡","DeptNo":"MA0110","EmpNo":"200078","Uid":"3000e2008181810602541110a6b9","TagType":"E","People":"1","Time":"2017/05/16 10:05"}
+2017-05-16 10:05:25,714 INFO Time:2017/05/16 10:05  EmpNo:200078  EmpCName:蔡心怡 DeptNo:MA0110 People:1
+2017-05-16 10:08:40,732 INFO MQTT received: {"EmpCName":"鄧智萍","DeptNo":"AT0110","EmpNo":"200099","Uid":"3000e20081818106025513708cab","TagType":"E","People":"1","Time":"2017/05/16 10:08"}
+2017-05-16 10:08:40,733 INFO Time:2017/05/16 10:08  EmpNo:200099  EmpCName:鄧智萍 DeptNo:AT0110 People:1
+2017-05-16 10:21:01,285 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 10:21"}
+2017-05-16 10:21:01,287 INFO Time:2017/05/16 10:21  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 10:28:48,428 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 10:28"}
+2017-05-16 10:28:48,436 INFO Time:2017/05/16 10:28  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 10:29:19,091 INFO MQTT received: {"EmpCName":"蕭光廷","DeptNo":"PD0100","EmpNo":"200181","Uid":"3000e2008181810602541170a26f","TagType":"E","People":"1","Time":"2017/05/16 10:29"}
+2017-05-16 10:29:19,092 INFO Time:2017/05/16 10:29  EmpNo:200181  EmpCName:蕭光廷 DeptNo:PD0100 People:1
+2017-05-16 10:41:11,154 INFO MQTT received: {"EmpCName":"張德華","DeptNo":"AT0110","EmpNo":"200096","Uid":"3000e20081818106025513608caa","TagType":"E","People":"1","Time":"2017/05/16 10:41"}
+2017-05-16 10:41:11,156 INFO Time:2017/05/16 10:41  EmpNo:200096  EmpCName:張德華 DeptNo:AT0110 People:1
+2017-05-16 10:43:39,556 INFO MQTT received: {"EmpCName":"林士哲","DeptNo":"PD0130","EmpNo":"200188","Uid":"3000e2008181810602540730cf1f","TagType":"E","People":"1","Time":"2017/05/16 10:43"}
+2017-05-16 10:43:39,558 INFO Time:2017/05/16 10:43  EmpNo:200188  EmpCName:林士哲 DeptNo:PD0130 People:1
+2017-05-16 10:52:02,363 INFO MQTT received: {"EmpCName":"許瑞宏","DeptNo":"PD0110","EmpNo":"200354","Uid":"3000e2008181810602550970b78f","TagType":"E","People":"1","Time":"2017/05/16 10:52"}
+2017-05-16 10:52:02,364 INFO Time:2017/05/16 10:52  EmpNo:200354  EmpCName:許瑞宏 DeptNo:PD0110 People:1
+2017-05-16 10:54:22,575 INFO MQTT received: {"EmpCName":"朱陳志明","DeptNo":"PM0270","EmpNo":"200339","Uid":"3000e2008181810602550810c787","TagType":"E","People":"1","Time":"2017/05/16 10:54"}
+2017-05-16 10:54:22,576 INFO Time:2017/05/16 10:54  EmpNo:200339  EmpCName:朱陳志明 DeptNo:PM0270 People:1
+2017-05-16 11:01:07,570 INFO MQTT received: {"EmpCName":"趙峰亭","DeptNo":"MA0160","EmpNo":"200316","Uid":"3000e2004134701001520490dddd","TagType":"E","People":"1","Time":"2017/05/16 11:01"}
+2017-05-16 11:01:07,571 INFO Time:2017/05/16 11:01  EmpNo:200316  EmpCName:趙峰亭 DeptNo:MA0160 People:1
+2017-05-16 11:02:19,377 INFO MQTT received: {"EmpCName":"楊文政","DeptNo":"PM0230","EmpNo":"200336","Uid":"3000e2008181810602550840c3a2","TagType":"E","People":"1","Time":"2017/05/16 11:02"}
+2017-05-16 11:02:19,378 INFO Time:2017/05/16 11:02  EmpNo:200336  EmpCName:楊文政 DeptNo:PM0230 People:1
+2017-05-16 11:06:42,498 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 11:06"}
+2017-05-16 11:06:42,500 INFO Time:2017/05/16 11:06  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-16 11:09:22,324 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 11:09"}
+2017-05-16 11:09:22,326 INFO Time:2017/05/16 11:09  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-16 11:19:48,580 INFO MQTT received: {"EmpCName":"徐明東","DeptNo":"DE0130","EmpNo":"200004","Uid":"3000e2004134701001530490dde1","TagType":"E","People":"1","Time":"2017/05/16 11:19"}
+2017-05-16 11:19:48,581 INFO Time:2017/05/16 11:19  EmpNo:200004  EmpCName:徐明東 DeptNo:DE0130 People:1
+2017-05-16 11:23:24,262 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/16 11:23"}
+2017-05-16 11:23:24,264 INFO Time:2017/05/16 11:23  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-16 11:24:06,865 INFO MQTT received: {"EmpCName":"郭芝伊","DeptNo":"MA0180","EmpNo":"200121","Uid":"3000e2008181810602540790c781","TagType":"E","People":"1","Time":"2017/05/16 11:24"}
+2017-05-16 11:24:06,867 INFO Time:2017/05/16 11:24  EmpNo:200121  EmpCName:郭芝伊 DeptNo:MA0180 People:1
+2017-05-16 11:24:52,547 INFO MQTT received: {"EmpCName":"蔡心怡","DeptNo":"MA0110","EmpNo":"200078","Uid":"3000e2008181810602541110a6b9","TagType":"E","People":"1","Time":"2017/05/16 11:24"}
+2017-05-16 11:24:52,549 INFO Time:2017/05/16 11:24  EmpNo:200078  EmpCName:蔡心怡 DeptNo:MA0110 People:1
+2017-05-16 11:25:33,084 INFO MQTT received: {"EmpCName":"林士哲","DeptNo":"PD0130","EmpNo":"200188","Uid":"3000e2008181810602540730cf1f","TagType":"E","People":"1","Time":"2017/05/16 11:25"}
+2017-05-16 11:25:33,085 INFO Time:2017/05/16 11:25  EmpNo:200188  EmpCName:林士哲 DeptNo:PD0130 People:1
+2017-05-16 11:27:07,573 INFO MQTT received: {"EmpCName":"李妍萍","DeptNo":"AT0120","EmpNo":"200134","Uid":"3000e2004134701001630490de09","TagType":"E","People":"1","Time":"2017/05/16 11:27"}
+2017-05-16 11:27:07,574 INFO Time:2017/05/16 11:27  EmpNo:200134  EmpCName:李妍萍 DeptNo:AT0120 People:1
+2017-05-16 11:29:59,001 INFO MQTT received: {"EmpCName":"李妍萍","DeptNo":"AT0120","EmpNo":"200134","Uid":"3000e2004134701001630490de09","TagType":"E","People":"1","Time":"2017/05/16 11:29"}
+2017-05-16 11:29:59,002 INFO Time:2017/05/16 11:29  EmpNo:200134  EmpCName:李妍萍 DeptNo:AT0120 People:1
+2017-05-16 11:32:27,905 INFO MQTT received: {"EmpCName":"李建壹","DeptNo":"AT0130","EmpNo":"200281","Uid":"3000e20030286c0b01811320901c","TagType":"E","People":"1","Time":"2017/05/16 11:32"}
+2017-05-16 11:32:27,906 INFO Time:2017/05/16 11:32  EmpNo:200281  EmpCName:李建壹 DeptNo:AT0130 People:1
+2017-05-16 11:41:47,299 INFO MQTT received: {"EmpCName":"林建中","DeptNo":"MA0160","EmpNo":"200199","Uid":"3000e2008181810602540740cf20","TagType":"E","People":"1","Time":"2017/05/16 11:41"}
+2017-05-16 11:41:47,300 INFO Time:2017/05/16 11:41  EmpNo:200199  EmpCName:林建中 DeptNo:MA0160 People:1
+2017-05-16 11:44:10,711 INFO MQTT received: {"EmpCName":"陳筌傑","DeptNo":"PD0130","EmpNo":"200356","Uid":"3000e2008181810602551000b36a","TagType":"E","People":"1","Time":"2017/05/16 11:44"}
+2017-05-16 11:44:10,712 INFO Time:2017/05/16 11:44  EmpNo:200356  EmpCName:陳筌傑 DeptNo:PD0130 People:1
+2017-05-16 11:44:50,650 INFO MQTT received: {"EmpCName":"王立安","DeptNo":"DE0110","EmpNo":"200351","Uid":"3000e2008181810602550730cf23","TagType":"E","People":"1","Time":"2017/05/16 11:44"}
+2017-05-16 11:44:50,651 INFO Time:2017/05/16 11:44  EmpNo:200351  EmpCName:王立安 DeptNo:DE0110 People:1
+2017-05-16 11:47:24,854 INFO MQTT received: {"EmpCName":"廖映茹","DeptNo":"MA0180","EmpNo":"200349","Uid":"3000e2008181810602550780cb60","TagType":"E","People":"1","Time":"2017/05/16 11:47"}
+2017-05-16 11:47:24,855 INFO Time:2017/05/16 11:47  EmpNo:200349  EmpCName:廖映茹 DeptNo:MA0180 People:1
+2017-05-16 11:50:49,906 INFO MQTT received: {"EmpCName":"林宸宇","DeptNo":"MA0150","EmpNo":"200256","Uid":"3000e2008181810602540640d66a","TagType":"E","People":"1","Time":"2017/05/16 11:50"}
+2017-05-16 11:50:49,908 INFO Time:2017/05/16 11:50  EmpNo:200256  EmpCName:林宸宇 DeptNo:MA0150 People:1
+2017-05-16 11:56:45,398 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/16 11:56"}
+2017-05-16 11:56:45,399 INFO Time:2017/05/16 11:56  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-16 12:05:12,242 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 12:05"}
+2017-05-16 12:05:12,244 INFO Time:2017/05/16 12:05  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-16 12:23:04,808 INFO MQTT received: {"EmpCName":"吳國炎","DeptNo":"MA0150","EmpNo":"200184","Uid":"3000e2008181810602541050af3b","TagType":"E","People":"1","Time":"2017/05/16 12:23"}
+2017-05-16 12:23:04,809 INFO Time:2017/05/16 12:23  EmpNo:200184  EmpCName:吳國炎 DeptNo:MA0150 People:1
+2017-05-16 12:23:12,702 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/16 12:23"}
+2017-05-16 12:23:12,704 INFO Time:2017/05/16 12:23  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-16 12:28:28,166 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/16 12:28"}
+2017-05-16 12:28:28,167 INFO Time:2017/05/16 12:28  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-16 12:28:39,357 INFO MQTT received: {"EmpCName":"段秋月","DeptNo":"DE0110","EmpNo":"200358","Uid":"3000e2008181810602551070ab01","TagType":"E","People":"1","Time":"2017/05/16 12:28"}
+2017-05-16 12:28:39,358 INFO Time:2017/05/16 12:28  EmpNo:200358  EmpCName:段秋月 DeptNo:DE0110 People:1
+2017-05-16 12:42:48,455 INFO MQTT received: {"EmpCName":"龐子涵","DeptNo":"PD0110","EmpNo":"200283","Uid":"3000e2008181810602541160a26e","TagType":"E","People":"1","Time":"2017/05/16 12:42"}
+2017-05-16 12:42:48,456 INFO Time:2017/05/16 12:42  EmpNo:200283  EmpCName:龐子涵 DeptNo:PD0110 People:1
+2017-05-16 12:55:56,040 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2003028680b018213209020","TagType":"E","People":"1","Time":"2017/05/16 12:55"}
+2017-05-16 12:55:56,041 INFO Time:2017/05/16 12:55  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000 People:1
+2017-05-16 12:56:00,486 INFO MQTT received: {"EmpCName":"龔執豪","DeptNo":"GE0000","EmpNo":"200002","Uid":"3000e2003028680b018213209020","TagType":"E","People":"1","Time":"2017/05/16 12:56"}
+2017-05-16 12:56:00,487 INFO Time:2017/05/16 12:56  EmpNo:200002  EmpCName:龔執豪 DeptNo:GE0000 People:1
+2017-05-16 12:57:21,221 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/16 12:57"}
+2017-05-16 12:57:21,222 INFO Time:2017/05/16 12:57  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-16 12:59:24,827 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/16 12:59"}
+2017-05-16 12:59:24,828 INFO Time:2017/05/16 12:59  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-16 13:00:15,642 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 13:00"}
+2017-05-16 13:00:15,643 INFO Time:2017/05/16 13:00  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 13:02:50,730 INFO MQTT received: {"EmpCName":"蔡宗霖","DeptNo":"MA0130","EmpNo":"200215","Uid":"3000e2008181810602541120a6ba","TagType":"E","People":"1","Time":"2017/05/16 13:02"}
+2017-05-16 13:02:50,731 INFO Time:2017/05/16 13:02  EmpNo:200215  EmpCName:蔡宗霖 DeptNo:MA0130 People:1
+2017-05-16 13:03:43,381 INFO MQTT received: {"EmpCName":"朱得銘","DeptNo":"MA0150","EmpNo":"200332","Uid":"3000e2008181810602541130a6bb","TagType":"E","People":"1","Time":"2017/05/16 13:03"}
+2017-05-16 13:03:43,383 INFO Time:2017/05/16 13:03  EmpNo:200332  EmpCName:朱得銘 DeptNo:MA0150 People:1
+2017-05-16 13:06:51,400 INFO MQTT received: {"EmpCName":"張義諺","DeptNo":"MA0160","EmpNo":"200317","Uid":"3000e2008181810602550720cf22","TagType":"E","People":"1","Time":"2017/05/16 13:06"}
+2017-05-16 13:06:51,401 INFO Time:2017/05/16 13:06  EmpNo:200317  EmpCName:張義諺 DeptNo:MA0160 People:1
+2017-05-16 13:11:00,731 INFO MQTT received: {"EmpCName":"林士哲","DeptNo":"PD0130","EmpNo":"200188","Uid":"3000e2008181810602540730cf1f","TagType":"E","People":"1","Time":"2017/05/16 13:11"}
+2017-05-16 13:11:00,732 INFO Time:2017/05/16 13:11  EmpNo:200188  EmpCName:林士哲 DeptNo:PD0130 People:1
+2017-05-16 13:17:33,130 INFO MQTT subscribed: 1 (0,)
+2017-05-16 13:21:27,197 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 13:21"}
+2017-05-16 13:21:27,198 INFO Time:2017/05/16 13:21  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 13:22:59,916 INFO MQTT received: {"EmpCName":"張延凱","DeptNo":"AT0130","EmpNo":"200280","Uid":"3000e2003028630c01161900500d","TagType":"E","People":"1","Time":"2017/05/16 13:22"}
+2017-05-16 13:22:59,918 INFO Time:2017/05/16 13:22  EmpNo:200280  EmpCName:張延凱 DeptNo:AT0130 People:1
+2017-05-16 13:25:25,041 INFO MQTT received: {"EmpCName":"張延凱","DeptNo":"AT0130","EmpNo":"200280","Uid":"3000e2003028630c01161900500d","TagType":"E","People":"1","Time":"2017/05/16 13:25"}
+2017-05-16 13:25:25,042 INFO Time:2017/05/16 13:25  EmpNo:200280  EmpCName:張延凱 DeptNo:AT0130 People:1
+2017-05-16 13:25:41,884 INFO MQTT received: {"EmpCName":"林建中","DeptNo":"MA0160","EmpNo":"200199","Uid":"3000e2008181810602540740cf20","TagType":"E","People":"1","Time":"2017/05/16 13:25"}
+2017-05-16 13:25:41,885 INFO Time:2017/05/16 13:25  EmpNo:200199  EmpCName:林建中 DeptNo:MA0160 People:1
+2017-05-16 13:27:19,979 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 13:27"}
+2017-05-16 13:27:19,980 INFO Time:2017/05/16 13:27  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 13:27:28,959 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 13:27"}
+2017-05-16 13:27:28,960 INFO Time:2017/05/16 13:27  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
+2017-05-16 13:27:39,387 INFO MQTT received: {"EmpCName":"蘇琬稜","DeptNo":"MA0130","EmpNo":"200268","Uid":"3000e2008181810602541000b366","TagType":"E","People":"1","Time":"2017/05/16 13:27"}
+2017-05-16 13:27:39,389 INFO Time:2017/05/16 13:27  EmpNo:200268  EmpCName:蘇琬稜 DeptNo:MA0130 People:1
+2017-05-16 13:28:03,004 INFO MQTT received: {"EmpCName":"張德華","DeptNo":"AT0110","EmpNo":"200096","Uid":"3000e20081818106025513608caa","TagType":"E","People":"1","Time":"2017/05/16 13:28"}
+2017-05-16 13:28:03,006 INFO Time:2017/05/16 13:28  EmpNo:200096  EmpCName:張德華 DeptNo:AT0110 People:1
+2017-05-16 13:40:26,182 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/16 13:40"}
+2017-05-16 13:40:26,184 INFO Time:2017/05/16 13:40  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-16 13:45:10,470 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/16 13:45"}
+2017-05-16 13:45:10,471 INFO Time:2017/05/16 13:45  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-16 13:47:01,190 INFO MQTT received: {"EmpCName":"徐嘉康","DeptNo":"DE0110","EmpNo":"200148","Uid":"3000e20041027202006022802938","TagType":"E","People":"1","Time":"2017/05/16 13:47"}
+2017-05-16 13:47:01,191 INFO Time:2017/05/16 13:47  EmpNo:200148  EmpCName:徐嘉康 DeptNo:DE0110 People:1
+2017-05-16 13:50:23,895 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 13:50"}
+2017-05-16 13:50:23,897 INFO Time:2017/05/16 13:50  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 13:55:46,496 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 13:55"}
+2017-05-16 13:55:46,497 INFO Time:2017/05/16 13:55  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 14:02:27,045 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 14:02"}
+2017-05-16 14:02:27,047 INFO Time:2017/05/16 14:02  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 14:03:49,712 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f01011740613f","TagType":"E","People":"1","Time":"2017/05/16 14:03"}
+2017-05-16 14:03:49,717 INFO Time:2017/05/16 14:03  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
+2017-05-16 14:06:54,791 INFO MQTT received: {"EmpCName":"曾成訓","DeptNo":"AT0130","EmpNo":"200334","Uid":"3000e2005011040f01011740613f","TagType":"E","People":"1","Time":"2017/05/16 14:06"}
+2017-05-16 14:06:54,793 INFO Time:2017/05/16 14:06  EmpNo:200334  EmpCName:曾成訓 DeptNo:AT0130 People:1
+2017-05-16 14:07:07,051 INFO MQTT received: {"EmpCName":"吳亞勳","DeptNo":"MA0180","EmpNo":"200277","Uid":"3000e2008181810602550620d9f4","TagType":"E","People":"1","Time":"2017/05/16 14:07"}
+2017-05-16 14:07:07,053 INFO Time:2017/05/16 14:07  EmpNo:200277  EmpCName:吳亞勳 DeptNo:MA0180 People:1
+2017-05-16 14:15:04,793 INFO MQTT received: {"EmpCName":"蔡宗霖","DeptNo":"MA0130","EmpNo":"200215","Uid":"3000e2008181810602541120a6ba","TagType":"E","People":"1","Time":"2017/05/16 14:15"}
+2017-05-16 14:15:04,795 INFO Time:2017/05/16 14:15  EmpNo:200215  EmpCName:蔡宗霖 DeptNo:MA0130 People:1
+2017-05-16 14:16:58,334 INFO MQTT received: {"EmpCName":"林本元","DeptNo":"PM0200","EmpNo":"200147","Uid":"3000e2008181810602540840c39e","TagType":"E","People":"1","Time":"2017/05/16 14:16"}
+2017-05-16 14:16:58,335 INFO Time:2017/05/16 14:16  EmpNo:200147  EmpCName:林本元 DeptNo:PM0200 People:1
+2017-05-16 14:23:24,256 INFO MQTT received: {"EmpCName":"蔡宗霖","DeptNo":"MA0130","EmpNo":"200215","Uid":"3000e2008181810602541120a6ba","TagType":"E","People":"1","Time":"2017/05/16 14:23"}
+2017-05-16 14:23:24,258 INFO Time:2017/05/16 14:23  EmpNo:200215  EmpCName:蔡宗霖 DeptNo:MA0130 People:1
+2017-05-16 14:31:15,789 INFO MQTT received: {"EmpCName":"徐明東","DeptNo":"DE0130","EmpNo":"200004","Uid":"3000e2004134701001530490dde1","TagType":"E","People":"1","Time":"2017/05/16 14:31"}
+2017-05-16 14:31:15,791 INFO Time:2017/05/16 14:31  EmpNo:200004  EmpCName:徐明東 DeptNo:DE0130 People:1
+2017-05-16 14:44:28,917 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 14:44"}
+2017-05-16 14:44:28,918 INFO Time:2017/05/16 14:44  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 14:45:21,651 INFO MQTT received: {"EmpCName":"蘇琬稜","DeptNo":"MA0130","EmpNo":"200268","Uid":"3000e2008181810602541000b366","TagType":"E","People":"1","Time":"2017/05/16 14:45"}
+2017-05-16 14:45:21,652 INFO Time:2017/05/16 14:45  EmpNo:200268  EmpCName:蘇琬稜 DeptNo:MA0130 People:1
+2017-05-16 14:48:45,660 INFO MQTT received: {"EmpCName":"周百堯","DeptNo":"AT0110","EmpNo":"200100","Uid":"3000e20081818106025513908849","TagType":"E","People":"1","Time":"2017/05/16 14:48"}
+2017-05-16 14:48:45,661 INFO Time:2017/05/16 14:48  EmpNo:200100  EmpCName:周百堯 DeptNo:AT0110 People:1
+2017-05-16 14:56:13,559 INFO MQTT subscribed: 1 (0,)
+2017-05-16 14:56:23,206 INFO MQTT received: {"EmpCName":"林士哲","DeptNo":"PD0130","EmpNo":"200188","Uid":"3000e2008181810602540730cf1f","TagType":"E","People":"1","Time":"2017/05/16 14:56"}
+2017-05-16 14:56:23,207 INFO Time:2017/05/16 14:56  EmpNo:200188  EmpCName:林士哲 DeptNo:PD0130 People:1
+2017-05-16 15:01:25,114 INFO MQTT received: {"EmpCName":"郭珮渝","DeptNo":"AT0110","EmpNo":"200345","Uid":"3000e2008181810602541020b368","TagType":"E","People":"1","Time":"2017/05/16 15:01"}
+2017-05-16 15:01:25,115 INFO Time:2017/05/16 15:01  EmpNo:200345  EmpCName:郭珮渝 DeptNo:AT0110 People:1
