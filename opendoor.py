@@ -17,8 +17,12 @@ from libraryCH.device.lcd import ILI9341
 debugPrint = True
 doorPin = 17
 
-#打卡通知方式: 0 鈴聲  1 唸名字  2 超過1人則唸名字, 只有1人則發出鈴聲
+#打卡通知方式: 0 鈴聲  1 唸名字  2 超過1人則唸名字, 只有1人則發出鈴聲, 3 上下班時間才唸人名
 notifyWay = 2
+
+#自動開門後多久之內不要再執行開門動作
+doorOpenDelay = 10
+lastDootOpenTime = 0
 
 lcdDisplay = False
 #LCD顯示設定------------------------------------
@@ -140,7 +144,9 @@ def takePictures(saveFolder="others"):
 
 def openDoor():
     global doorPin
-
+    #print("Now - Last = {}".format(time.time()-lastDootOpenTime))
+    #if(time.time()-lastDootOpenTime > doorOpenDelay):
+    #    lastDootOpenTime = time.time()
     GPIO.output(doorPin, 1) 
     sleep(0.2)
     GPIO.output(doorPin, 0)   
@@ -160,7 +166,7 @@ def on_connect(mosq, obj, rc):
     if(debugPrint==True): print("rc: " + str(rc))
 
 def on_message(mosq, obj, msg):
-    global message, screenSaverNow, lastHelloVoice, notifyWay, lastTagName1, lastTagTime1
+    global message, screenSaverNow, lastHelloVoice, notifyWay, lastTagName1, lastTagTime1, lastDootOpenTime, doorOpenDelay
     #print(msg.topic + "/ " + str(msg.qos) + "/ " + str(msg.payload))
     msgReceived = str(msg.payload.decode("utf-8"))
     if(debugPrint==True): print ("Received: " + msgReceived)
@@ -182,23 +188,33 @@ def on_message(mosq, obj, msg):
             takePictures(jsonReply["EmpNo"])
 
         if(jsonReply["TagType"]=='E'):
-            openDoor()
+            
+            if(time.time() - lastDootOpenTime > doorOpenDelay):
+                lastDootOpenTime = time.time()
+                openDoor()
 
-            if(notifyWay==0):
-                subprocess.call(["omxplayer", "--no-osd", "bell2.mp3"])
+                if(notifyWay==0):
+                    subprocess.call(["omxplayer", "--no-osd", "bell2.mp3"])
 
-            elif (notifyWay==1):
-                speakName(jsonReply["EmpNo"])
-
-            elif (notifyWay==2):
-                if(int(jsonReply["People"])>1):
-                    #避免在多人進出時, 先偵測到一張TAG, 再接著同時幾著TAGG, 因此先唸出剛剛偵測到的人名, 再唸目前偵測到的
-                    if(time.time()-lastTagTime1<5):
-                        speakName(lastTagName1)
-                        lastTagTime1 = 0
-
+                elif (notifyWay==1):
                     speakName(jsonReply["EmpNo"])
 
+                elif (notifyWay==2):
+                    if(int(jsonReply["People"])>1):
+                        #避免在多人進出時, 先偵測到一張TAG, 再接著同時幾著TAGG, 因此先唸出剛剛偵測到的人名, 再唸目前偵測到的
+                        if(time.time()-lastTagTime1<5):
+                            speakName(lastTagName1)
+                            lastTagTime1 = 0
+
+                        speakName(jsonReply["EmpNo"])
+
+                    else:
+                        subprocess.call(["omxplayer", "--no-osd", "bell2.mp3"])
+
+            elif (notifyWay==3):
+                year, month, day, hour, minute = time.strftime("%Y,%m,%d,%H,%M").split(',')
+                if((hour>=17 and minute>=30) or (hour<=9 and hour>=6)):
+                    speakName(jsonReply["EmpNo"])
                 else:
                     subprocess.call(["omxplayer", "--no-osd", "bell2.mp3"])
 
